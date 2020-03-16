@@ -1,12 +1,12 @@
 # 2020-03-12 北科大 108-2 區塊鏈技術與應用（通識）
-# 📅 109年03月12日 
-> 🏡 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14459.038196331883!2d121.5354974!3d25.0422329!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x47ea748e8f3f53aa!2z5ZyL56uL6Ie65YyX56eR5oqA5aSn5a24!5e0!3m2!1szh-TW!2stw!4v1584343771092!5m2!1szh-TW!2stw" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
+> 📅 2020-03-13T10:12:21 
+> 🏡 （[北科大 / 2020-03-13T10:12:21](https://goo.gl/maps/BJnxxwWM8y5hvaC57)） 
 > 🌐 （[YouTube](https://www.youtube.com/watch?v=-fsy-nYsA5k)）
 
 
 【以下開始記錄】
 
-> 📅⌛️2020-03-1310:12:21
+> 📅 2020-03-13T10:12:21
 ### 寶博士:
 hello～
 
