@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/K" id="K" showAs="K"/>
+                <TLCPerson href="/ontology/person/::/Annie" id="Annie" showAs="Annie"/>
+                <TLCPerson href="/ontology/person/::/寶博士" id="寶博士" showAs="寶博士"/>
+                <TLCPerson href="/ontology/person/::/汪詩婉" id="汪詩婉" showAs="汪詩婉"/>
+                <TLCPerson href="/ontology/person/::/penguin" id="penguin" showAs="penguin"/>
+                <TLCPerson href="/ontology/person/::/呂靜" id="呂靜" showAs="呂靜"/>
+                <TLCPerson href="/ontology/person/::/aya9910bts@gmail.com" id="aya9910bts@gmail.com" showAs="aya9910bts@gmail.com"/>
+                <TLCPerson href="/ontology/person/::/陳 怡璇" id="陳 怡璇" showAs="陳 怡璇"/>
+                <TLCPerson href="/ontology/person/::/膽囊是我" id="膽囊是我" showAs="膽囊是我"/>
+                <TLCPerson href="/ontology/person/::/Gina" id="Gina" showAs="Gina"/>
+                <TLCPerson href="/ontology/person/::/張凱智" id="張凱智" showAs="張凱智"/>
+                <TLCPerson href="/ontology/person/::/北科大-蘇家玉" id="北科大-蘇家玉" showAs="北科大-蘇家玉"/>
+                <TLCPerson href="/ontology/person/::/江文亞&簡嘉琳" id="江文亞&簡嘉琳" showAs="江文亞&簡嘉琳"/>
+                <TLCPerson href="/ontology/person/::/英杰" id="英杰" showAs="英杰"/>
+                <TLCPerson href="/ontology/person/::/林静莹" id="林静莹" showAs="林静莹"/>
+                <TLCPerson href="/ontology/person/::/李姿葶" id="李姿葶" showAs="李姿葶"/>
+                <TLCPerson href="/ontology/person/::/辰 葉" id="辰 葉" showAs="辰 葉"/>
+                <TLCPerson href="/ontology/person/::/觀雲 張" id="觀雲 張" showAs="觀雲 張"/>
+                <TLCPerson href="/ontology/person/::/果凍 吃" id="果凍 吃" showAs="果凍 吃"/>
+                <TLCPerson href="/ontology/person/::/陳沅芝" id="陳沅芝" showAs="陳沅芝"/>
+                <TLCPerson href="/ontology/person/::/張亦芃" id="張亦芃" showAs="張亦芃"/>
+                <TLCPerson href="/ontology/person/::/吳婉欣" id="吳婉欣" showAs="吳婉欣"/>
+                <TLCPerson href="/ontology/person/::/WenJun" id="WenJun" showAs="WenJun"/>
+                <TLCPerson href="/ontology/person/::/Winnie" id="Winnie" showAs="Winnie"/>
+                <TLCPerson href="/ontology/person/::/大咪咪公主" id="大咪咪公主" showAs="大咪咪公主"/>
+                <TLCPerson href="/ontology/person/::/李毓浩" id="李毓浩" showAs="李毓浩"/>
+                <TLCPerson href="/ontology/person/::/祺祐 林" id="祺祐 林" showAs="祺祐 林"/>
+                <TLCPerson href="/ontology/person/::/107ac1028" id="107ac1028" showAs="107ac1028"/>
+                <TLCPerson href="/ontology/person/::/中国主席习近平" id="中国主席习近平" showAs="中国主席习近平"/>
+                <TLCPerson href="/ontology/person/::/可愛盈辰 的 iPhone" id="可愛盈辰 的 iPhone" showAs="可愛盈辰 的 iPhone"/>
+                <TLCPerson href="/ontology/person/::/mimi" id="mimi" showAs="mimi"/>
+                <TLCPerson href="/ontology/person/::/YanRu Chen" id="YanRu Chen" showAs="YanRu Chen"/>
+                <TLCPerson href="/ontology/person/::/柳喻翔" id="柳喻翔" showAs="柳喻翔"/>
+                <TLCPerson href="/ontology/person/::/lcm" id="lcm" showAs="lcm"/>
+                <TLCPerson href="/ontology/person/::/李婉儀" id="李婉儀" showAs="李婉儀"/>
+                <TLCPerson href="/ontology/person/::/Naomi" id="Naomi" showAs="Naomi"/>
+                <TLCPerson href="/ontology/person/::/felix" id="felix" showAs="felix"/>
+                <TLCPerson href="/ontology/person/::/彭家駒" id="彭家駒" showAs="彭家駒"/>
+                <TLCPerson href="/ontology/person/::/劉 哲均" id="劉 哲均" showAs="劉 哲均"/>
+                <TLCPerson href="/ontology/person/::/rrrr" id="rrrr" showAs="rrrr"/>
+                <TLCPerson href="/ontology/person/::/東申 林" id="東申 林" showAs="東申 林"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-03-12 北科大 108-2 設計實作（大二）
+                </heading>
+                <narrative>
+                    <p>
+                        <i>
+                            🏡 （
+                            <a href="https://goo.gl/maps/BJnxxwWM8y5hvaC57">
+                                北科大｜2020-03-12T13:10:19 
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            🌐 （
+                            <a href="https://www.youtube.com/watch?v=-fsy-nYsA5k">
+                                YouTube
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#K">
+                    <p>
+                        早安
+                    </p>
+                </speech>
+                <speech by="#Annie">
+                    <p>
+                        嘿
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        HELLO!
+                    </p>
+                </speech>
+                <speech by="#汪詩婉">
+                    <p>
+                        午安
+                    </p>
+                </speech>
+                <speech by="#penguin">
+                    <p>
+                        hi
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        halo
+                    </p>
+                </speech>
+                <speech by="#aya9910bts@gmail.com">
+                    <p>
+                        安安
+                    </p>
+                </speech>
+                <speech by="#陳 怡璇">
+                    <p>
+                        你好*
+                    </p>
+                </speech>
+                <speech by="#膽囊是我">
+                    <p>
+                        哈哈哈哈哈阿ㄏ哈阿
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        超讚
+                    </p>
+                </speech>
+                <speech by="#張凱智">
+                    <p>
+                        王彥彬手機沒空間 笑死
+                    </p>
+                </speech>
+                <speech by="#北科大-蘇家玉">
+                    <p>
+                        …..
+                    </p>
+                </speech>
+                <speech by="#江文亞&簡嘉琳">
+                    <p>
+                        現在知道
+                    </p>
+                </speech>
+                <speech by="#張凱智">
+                    <p>
+                        刷一輛跑車
+                    </p>
+                </speech>
+                <speech by="#英杰">
+                    <p>
+                        666
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#林静莹">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#李姿葶">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#英杰">
+                    <p>
+                        april fool
+                    </p>
+                </speech>
+                <speech by="#Annie">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#辰 葉">
+                    <p>
+                        陳郁升
+                    </p>
+                </speech>
+                <speech by="#觀雲 張">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#果凍 吃">
+                    <p>
+                        刷
+                    </p>
+                </speech>
+                <speech by="#江文亞&簡嘉琳">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#陳沅芝">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#吳婉欣">
+                    <p>
+                        666
+                    </p>
+                </speech>
+                <speech by="#K">
+                    <p>
+                        77777
+                    </p>
+                </speech>
+                <speech by="#WenJun">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#Winnie">
+                    <p>
+                        愚人節
+                    </p>
+                </speech>
+                <speech by="#張凱智">
+                    <p>
+                        66666
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        ＡＰＲＩＬ ＦＯＯＯＯＯＯＬＬＬＬＳ
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        鄧英傑
+                    </p>
+                </speech>
+                <speech by="#汪詩婉">
+                    <p>
+                        橄欖油學長
+                    </p>
+                </speech>
+                <speech by="#張凱智">
+                    <p>
+                        烏龜學長
+                    </p>
+                </speech>
+                <speech by="#李姿葶">
+                    <p>
+                        廳的到
+                    </p>
+                </speech>
+                <speech by="#北科大-蘇家玉">
+                    <p>
+                        有欸
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        好大聲
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        炫泡公主
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        畫面沒被遮住吧
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        有畫面
+                    </p>
+                </speech>
+                <speech by="#果凍 吃">
+                    <p>
+                        有畫面
+                    </p>
+                </speech>
+                <speech by="#果凍 吃">
+                    <p>
+                        也有聲音
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        都看得到
+                    </p>
+                </speech>
+                <speech by="#Annie">
+                    <p>
+                        有畫面
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        YES
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        有聲
+                    </p>
+                </speech>
+                <speech by="#Annie">
+                    <p>
+                        有聲音
+                    </p>
+                </speech>
+                <speech by="#江文亞&簡嘉琳">
+                    <p>
+                        都有
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        有聲音
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        不會
+                    </p>
+                </speech>
+                <speech by="#Annie">
+                    <p>
+                        不會
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        部會
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        不會
+                    </p>
+                </speech>
+                <speech by="#張凱智">
+                    <p>
+                        平衡感A+
+                    </p>
+                </speech>
+                <speech by="#K">
+                    <p>
+                        鬼步開啟
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        內內被看光
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        笑死
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        拉筋等級10
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        潮站ㄉ
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        有夠長
+                    </p>
+                </speech>
+                <speech by="#Annie">
+                    <p>
+                        志村健大爆笑
+                    </p>
+                </speech>
+                <speech by="#李毓浩">
+                    <p>
+                        ??????????
+                    </p>
+                </speech>
+                <speech by="#張凱智">
+                    <p>
+                        大OO
+                    </p>
+                </speech>
+                <speech by="#K">
+                    <p>
+                        被你發現了
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        拉哭金
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        喔津津
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        牙敗
+                    </p>
+                </speech>
+                <speech by="#北科大-蘇家玉">
+                    <p>
+                        打咩
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        不痛嗎..
+                    </p>
+                </speech>
+                <speech by="#Winnie">
+                    <p>
+                        ?????
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        好情色>///
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
