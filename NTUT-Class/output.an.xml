@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/寶博士" id="寶博士" showAs="寶博士"/>
+                <TLCPerson href="/ontology/person/::/徐筑郁" id="徐筑郁" showAs="徐筑郁"/>
+                <TLCPerson href="/ontology/person/::/Lorraine Chau" id="Lorraine Chau" showAs="Lorraine Chau"/>
+                <TLCPerson href="/ontology/person/::/Da zheng Lin" id="Da zheng Lin" showAs="Da zheng Lin"/>
+                <TLCPerson href="/ontology/person/::/Willy" id="Willy" showAs="Willy"/>
+                <TLCPerson href="/ontology/person/::/官政緯" id="官政緯" showAs="官政緯"/>
+                <TLCPerson href="/ontology/person/::/i蔡尚宏" id="i蔡尚宏" showAs="i蔡尚宏"/>
+                <TLCPerson href="/ontology/person/::/馮芝毓" id="馮芝毓" showAs="馮芝毓"/>
+                <TLCPerson href="/ontology/person/::/陳昱安" id="陳昱安" showAs="陳昱安"/>
+                <TLCPerson href="/ontology/person/::/chenwlegend@gmail.com" id="chenwlegend@gmail.com" showAs="chenwlegend@gmail.com"/>
+                <TLCPerson href="/ontology/person/::/古有呈" id="古有呈" showAs="古有呈"/>
+                <TLCPerson href="/ontology/person/::/吳憲璋" id="吳憲璋" showAs="吳憲璋"/>
+                <TLCPerson href="/ontology/person/::/劉芳怡" id="劉芳怡" showAs="劉芳怡"/>
+                <TLCPerson href="/ontology/person/::/Quasar" id="Quasar" showAs="Quasar"/>
+                <TLCPerson href="/ontology/person/::/土木吳栩賢" id="土木吳栩賢" showAs="土木吳栩賢"/>
+                <TLCPerson href="/ontology/person/::/Hsiang祉翔" id="Hsiang祉翔" showAs="Hsiang祉翔"/>
+                <TLCPerson href="/ontology/person/::/楊尊翔" id="楊尊翔" showAs="楊尊翔"/>
+                <TLCPerson href="/ontology/person/::/吳昊桓" id="吳昊桓" showAs="吳昊桓"/>
+                <TLCPerson href="/ontology/person/::/子涵 趙" id="子涵 趙" showAs="子涵 趙"/>
+                <TLCPerson href="/ontology/person/::/吳秉儒" id="吳秉儒" showAs="吳秉儒"/>
+                <TLCPerson href="/ontology/person/::/冠毅 林" id="冠毅 林" showAs="冠毅 林"/>
+                <TLCPerson href="/ontology/person/::/博勝 郭" id="博勝 郭" showAs="博勝 郭"/>
+                <TLCPerson href="/ontology/person/::/北科大-李佳憲" id="北科大-李佳憲" showAs="北科大-李佳憲"/>
+                <TLCPerson href="/ontology/person/::/鴻凱 蔡" id="鴻凱 蔡" showAs="鴻凱 蔡"/>
+                <TLCPerson href="/ontology/person/::/周碧雲" id="周碧雲" showAs="周碧雲"/>
+                <TLCPerson href="/ontology/person/::/黃仙惠" id="黃仙惠" showAs="黃仙惠"/>
+                <TLCPerson href="/ontology/person/::/邱崇瑋" id="邱崇瑋" showAs="邱崇瑋"/>
+                <TLCPerson href="/ontology/person/::/凱森" id="凱森" showAs="凱森"/>
+                <TLCPerson href="/ontology/person/::/吳惠珍" id="吳惠珍" showAs="吳惠珍"/>
+                <TLCPerson href="/ontology/person/::/Chuyu" id="Chuyu" showAs="Chuyu"/>
+                <TLCPerson href="/ontology/person/::/吳明哲" id="吳明哲" showAs="吳明哲"/>
+                <TLCPerson href="/ontology/person/::/周樂敏" id="周樂敏" showAs="周樂敏"/>
+                <TLCPerson href="/ontology/person/::/峻暐" id="峻暐" showAs="峻暐"/>
+                <TLCPerson href="/ontology/person/::/蔡秉勳" id="蔡秉勳" showAs="蔡秉勳"/>
+                <TLCPerson href="/ontology/person/::/傅筠" id="傅筠" showAs="傅筠"/>
+                <TLCPerson href="/ontology/person/::/鈺文 蘇" id="鈺文 蘇" showAs="鈺文 蘇"/>
+                <TLCPerson href="/ontology/person/::/莊 佩馨" id="莊 佩馨" showAs="莊 佩馨"/>
+                <TLCPerson href="/ontology/person/::/鄭高峰" id="鄭高峰" showAs="鄭高峰"/>
+                <TLCPerson href="/ontology/person/::/羅育陞" id="羅育陞" showAs="羅育陞"/>
+                <TLCPerson href="/ontology/person/::/葉子多" id="葉子多" showAs="葉子多"/>
+                <TLCPerson href="/ontology/person/::/陳奕蓁" id="陳奕蓁" showAs="陳奕蓁"/>
+                <TLCPerson href="/ontology/person/::/洪郁軒" id="洪郁軒" showAs="洪郁軒"/>
+                <TLCPerson href="/ontology/person/::/王漢宇" id="王漢宇" showAs="王漢宇"/>
+                <TLCPerson href="/ontology/person/::/Edison" id="Edison" showAs="Edison"/>
+                <TLCPerson href="/ontology/person/::/紀孟潔" id="紀孟潔" showAs="紀孟潔"/>
+                <TLCPerson href="/ontology/person/::/芷寧 許" id="芷寧 許" showAs="芷寧 許"/>
+                <TLCPerson href="/ontology/person/::/陳語哲" id="陳語哲" showAs="陳語哲"/>
+                <TLCPerson href="/ontology/person/::/峻輝 池" id="峻輝 池" showAs="峻輝 池"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-03-12 北科大 108-2 區塊鏈技術與應用（通識）
+                </heading>
+                <narrative>
+                    <p>
+                        <i>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14459.038196331883!2d121.5354974!3d25.0422329!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x47ea748e8f3f53aa!2z5ZyL56uL6Ie65YyX56eR5oqA5aSn5a24!5e0!3m2!1szh-TW!2stw!4v1584343771092!5m2!1szh-TW!2stw" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                             （<a href="https://www.youtube.com/watch?v=-fsy-nYsA5k">YouTube</a>）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#寶博士">
+                    <p>
+                        hello～
+                    </p>
+                </speech>
+                <narrative>
+                    <p>
+                        <i>
+                            (微笑)
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#徐筑郁">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#Lorraine Chau">
+                    <p>
+                        hello～
+                    </p>
+                </speech>
+                <speech by="#Da zheng Lin">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#官政緯">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#i蔡尚宏">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#陳昱安">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#chenwlegend@gmail.com">
+                    <p>
+                        早安
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        早安~
+                    </p>
+                </speech>
+                <speech by="#吳憲璋">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#劉芳怡">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#徐筑郁">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#土木吳栩賢">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#Da zheng Lin">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#chenwlegend@gmail.com">
+                    <p>
+                        ❤️
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#楊尊翔">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#吳昊桓">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#子涵 趙">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#吳秉儒">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#冠毅 林">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#博勝 郭">
+                    <p/>
+                </speech>
+                <speech by="#北科大-李佳憲">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#鴻凱 蔡">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#陳昱安">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#周碧雲">
+                    <p/>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        趙嘉俊/陳漢良/許閔堯/陳若嘉/羅育陞/蘇立誠/葉子多
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        請這幾位同學趕緊補加zuvio~
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        有認識的同學請也趕緊幫忙他們加入zuvio~
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        Zuvio課號：49548430
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        請問 陳<a href="mailto:lisa000103@yahoo.com.tw">lisa000103@yahoo.com.tw</a> 是哪一位～請你把名字改成全名呦～要不然助教無法幫你登記報到
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        有喔
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#凱森">
+                    <p>
+                        可以聽到
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        聽得到
+                    </p>
+                </speech>
+                <speech by="#吳憲璋">
+                    <p>
+                        水啦
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#楊尊翔">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        有聽得到
+                    </p>
+                </speech>
+                <speech by="#i蔡尚宏">
+                    <p>
+                        屋
+                    </p>
+                </speech>
+                <speech by="#官政緯">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#吳惠珍">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#Chuyu">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        畫質還可以嗎
+                    </p>
+                </speech>
+                <speech by="#土木吳栩賢">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        林大正同學～ 麻煩私我一下呦，你的帳號有重複
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        目前沒有人知道 中本聰 的本尊是誰
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        一個人兩個人一群人還是不是人
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        都不知道
+                    </p>
+                </speech>
+                <speech by="#凱森">
+                    <p>
+                        如果不是人的話是不是要請老高解釋XD
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        PayPal 就是像 街口支付 這樣的公司
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        沒聲音了
+                    </p>
+                </speech>
+                <speech by="#土木吳栩賢">
+                    <p>
+                        沒聲音了
+                    </p>
+                </speech>
+                <speech by="#吳秉儒">
+                    <p>
+                        聲音qq
+                    </p>
+                </speech>
+                <speech by="#吳憲璋">
+                    <p>
+                        QQ
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        等我一下
+                    </p>
+                </speech>
+                <speech by="#吳明哲">
+                    <p>
+                        沒聲音+1
+                    </p>
+                </speech>
+                <speech by="#周樂敏">
+                    <p>
+                        沒聲音too
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        有了嗎
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        恩
+                    </p>
+                </speech>
+                <speech by="#吳憲璋">
+                    <p>
+                        U了
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        有聲音了
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        好
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        剛剛考驗大家有沒有在線 ;) :P
+                    </p>
+                </speech>
+                <speech by="#北科大-李佳憲">
+                    <p>
+                        有～
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        有資財二甲的同學認識許閔堯同學嗎～他還沒進zuvio~
+                    </p>
+                </speech>
+                <speech by="#峻暐">
+                    <p>
+                        我認識他
+                    </p>
+                </speech>
+                <speech by="#吳憲璋">
+                    <p>
+                        我私他了
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        ＯＫ～謝謝大家幫忙通知～
+                    </p>
+                </speech>
+                <speech by="#凱森">
+                    <p>
+                        為了維持比特幣的運作  大家挖礦  好像也耗了很多資源
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        那是比特幣
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        算法 耗電
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        那是一種選擇 不是必須
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        有人統計過 全世界的記帳對帳人員和銀行會計工作者消耗的資源不比較少 還多得多～ XD
+                    </p>
+                </speech>
+                <speech by="#凱森">
+                    <p>
+                        哦～ cool
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        這很妙
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        有點卡
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        其他人影片還流暢嗎？
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        這對兄弟非常有名喔
+                    </p>
+                </speech>
+                <speech by="#吳明哲">
+                    <p>
+                        現在滿順的
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        現在比較順了
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        他們是全世界最有名的雙胞胎兄弟
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        現在還滿流暢
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        剛剛有點卡，現在正常了
+                    </p>
+                </speech>
+                <speech by="#蔡秉勳">
+                    <p>
+                        剛剛稍微卡卡的現在不會
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        這對雙胞胎是全世界擁有最多比特幣的雙胞胎
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        XD
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        而且他們就是最早期投資臉書的雙胞胎兄弟
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        大家有興趣可以去看《社群網戰》這部電影
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        好的~
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        今天比特幣的價格是 7800 美元
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        同學可以把自己的鏡頭關掉
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        另外，請大家記得去zuvio點名
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        重點來了
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        中本聰仍在世，據傳擁有98萬顆比特幣
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        約 700億美元
+                    </p>
+                </speech>
+                <speech by="#徐筑郁">
+                    <p>
+                        wow
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        天啊!!!!!
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        可以把鴻海買下來
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        爺爺好睿智
+                    </p>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        目前參會者有一個人沒進zuvio點名～請記得趕緊去zuvio補點喔（若有補點，請好心地私一下助教，助教也能比較快幫你做登記）
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        大家還在嗎？結尾彩蛋要來囉
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        還在嗎？大家
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        再喔
+                    </p>
+                </speech>
+                <speech by="#周樂敏">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#楊尊翔">
+                    <p>
+                        有!
+                    </p>
+                </speech>
+                <speech by="#子涵 趙">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#吳秉儒">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#鈺文 蘇">
+                    <p>
+                        在~
+                    </p>
+                </speech>
+                <speech by="#鴻凱 蔡">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#徐筑郁">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#陳昱安">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#吳昊桓">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#官政緯">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#劉芳怡">
+                    <p>
+                        喊在
+                    </p>
+                </speech>
+                <speech by="#Da zheng Lin">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#莊 佩馨">
+                    <p>
+                        在～～
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#羅育陞">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#葉子多">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#楊尊翔">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        覺得自己會抽到比特幣的同學 可以先去下載 APP <a href="https://trustwallet.com/">https://trustwallet.com/</a>
+                    </p>
+                </speech>
+                <speech by="#陳奕蓁">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#洪郁軒">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#王漢宇">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        彩蛋有在考題裡喔
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#徐筑郁">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#陳昱安">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#吳昊桓">
+                    <p>
+                        可
+                    </p>
+                </speech>
+                <speech by="#冠毅 林">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#子涵 趙">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        OK
+                    </p>
+                </speech>
+                <speech by="#Edison">
+                    <p>
+                        OK
+                    </p>
+                </speech>
+                <speech by="#Da zheng Lin">
+                    <p>
+                        清楚
+                    </p>
+                </speech>
+                <speech by="#周樂敏">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#吳明哲">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        學校斜對角有Maicoin
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        有看到XD
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#官政緯">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#紀孟潔">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        有XD
+                    </p>
+                </speech>
+                <speech by="#劉芳怡">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#鴻凱 蔡">
+                    <p>
+                        老師伺服器忙碌 答案無法送出
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        請再試試～
+                    </p>
+                </speech>
+                <speech by="#鴻凱 蔡">
+                    <p>
+                        還是不行
+                    </p>
+                </speech>
+                <speech by="#芷寧 許">
+                    <p>
+                        還是不行！
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://trustwallet.com/">https://trustwallet.com/</a>
+                    </p>
+                </speech>
+                <speech by="#鴻凱 蔡">
+                    <p>
+                        可以了 感謝
+                    </p>
+                </speech>
+                <speech by="#吳秉儒">
+                    <p>
+                        24hr 最高7980.95 最低7587.5 給大家參一下
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        浮動真大.
+                    </p>
+                </speech>
+                <speech by="#劉芳怡">
+                    <p>
+                        謝謝秉儒
+                    </p>
+                </speech>
+                <speech by="#莊 佩馨">
+                    <p>
+                        在～～～
+                    </p>
+                </speech>
+                <speech by="#吳憲璋">
+                    <p/>
+                </speech>
+                <speech by="#洪郁軒">
+                    <p/>
+                </speech>
+                <speech by="#黃仙惠">
+                    <p>
+                        恭喜～～
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        漢堡
+                    </p>
+                </speech>
+                <speech by="#葉子多">
+                    <p>
+                        笑死
+                    </p>
+                </speech>
+                <speech by="#吳憲璋">
+                    <p>
+                        漢堡笑死哈哈哈哈哈哈哈哈哈哈哈
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p/>
+                </speech>
+                <speech by="#傅筠">
+                    <p/>
+                </speech>
+                <speech by="#陳語哲">
+                    <p>
+                        漢堡
+                    </p>
+                </speech>
+                <speech by="#鴻凱 蔡">
+                    <p/>
+                </speech>
+                <speech by="#紀孟潔">
+                    <p/>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p/>
+                </speech>
+                <speech by="#Quasar">
+                    <p/>
+                </speech>
+                <speech by="#傅筠">
+                    <p/>
+                </speech>
+                <speech by="#北科大-李佳憲">
+                    <p/>
+                </speech>
+                <speech by="#峻輝 池">
+                    <p/>
+                </speech>
+                <speech by="#陳昱安">
+                    <p/>
+                </speech>
+                <speech by="#古有呈">
+                    <p/>
+                </speech>
+                <speech by="#鈺文 蘇">
+                    <p/>
+                </speech>
+                <speech by="#吳明哲">
+                    <p/>
+                </speech>
+                <speech by="#徐筑郁">
+                    <p/>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        哈哈
+                    </p>
+                </speech>
+                <speech by="#吳昊桓">
+                    <p/>
+                </speech>
+                <speech by="#冠毅 林">
+                    <p/>
+                </speech>
+                <speech by="#吳秉儒">
+                    <p/>
+                </speech>
+                <speech by="#子涵 趙">
+                    <p/>
+                </speech>
+                <speech by="#Willy">
+                    <p/>
+                </speech>
+                <speech by="#劉芳怡">
+                    <p/>
+                </speech>
+                <speech by="#土木吳栩賢">
+                    <p>
+                        ok
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        可
+                    </p>
+                </speech>
+                <speech by="#周樂敏">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#紀孟潔">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#吳昊桓">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#陳語哲">
+                    <p>
+                        可
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#劉芳怡">
+                    <p>
+                        可以呦
+                    </p>
+                </speech>
+                <speech by="#徐筑郁">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#官政緯">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#洪郁軒">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        剛剛抽中的同學 請給我你的 email
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        請稍等助教稍後會解釋心得平台Medium
+                    </p>
+                </speech>
+                <speech by="#莊 佩馨">
+                    <p>
+                        t106320312@ntut .org.tw
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        可
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        Medium平台 <a href="https://medium.com/">https://medium.com/</a>
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        標題範例：20200312 區塊鏈好有趣
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        心得是自願性撰寫＆繳交，不會完全當作評分標準，還是會希望大家可以嘗試寫寫部落格～
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        沒有
+                    </p>
+                </speech>
+                <speech by="#官政緯">
+                    <p>
+                        沒有
+                    </p>
+                </speech>
+                <speech by="#紀孟潔">
+                    <p>
+                        沒有
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        沒問題喔
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        沒
+                    </p>
+                </speech>
+                <speech by="#冠毅 林">
+                    <p>
+                        沒有
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        應該沒有…
+                    </p>
+                </speech>
+                <speech by="#冠毅 林">
+                    <p>
+                        拜拜
+                    </p>
+                </speech>
+                <speech by="#周樂敏">
+                    <p>
+                        謝謝老師～
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        掰掰~
+                    </p>
+                </speech>
+                <speech by="#子涵 趙">
+                    <p>
+                        老師拜拜
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        掰掰XD
+                    </p>
+                </speech>
+                <speech by="#官政緯">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#Quasar">
+                    <p>
+                        謝謝老師~
+                    </p>
+                </speech>
+                <speech by="#陳昱安">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#邱崇瑋">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#Willy">
+                    <p>
+                        老師掰掰
+                    </p>
+                </speech>
+                <speech by="#葉子多">
+                    <p>
+                        謝老師
+                    </p>
+                </speech>
+                <speech by="#蔡秉勳">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#北科大-李佳憲">
+                    <p>
+                        謝謝老師 拜拜
+                    </p>
+                </speech>
+                <speech by="#馮芝毓">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#吳昊桓">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        掰
+                    </p>
+                </speech>
+                <speech by="#洪郁軒">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#莊 佩馨">
+                    <p>
+                        謝謝老師～～
+                    </p>
+                </speech>
+                <speech by="#鴻凱 蔡">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#徐筑郁">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#Hsiang祉翔">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#陳奕蓁">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#傅筠">
+                    <p>
+                        有任何問題都可以找助教 傅筠/黃仙惠
+                    </p>
+                </speech>
+                <speech by="#古有呈">
+                    <p>
+                        XD
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
