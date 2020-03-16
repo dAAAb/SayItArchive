@@ -15,7 +15,7 @@
                 <TLCPerson href="/ontology/person/::/Gina" id="Gina" showAs="Gina"/>
                 <TLCPerson href="/ontology/person/::/張凱智" id="張凱智" showAs="張凱智"/>
                 <TLCPerson href="/ontology/person/::/北科大-蘇家玉" id="北科大-蘇家玉" showAs="北科大-蘇家玉"/>
-                <TLCPerson href="/ontology/person/::/江文亞&簡嘉琳" id="江文亞&簡嘉琳" showAs="江文亞&簡嘉琳"/>
+                <TLCPerson href="/ontology/person/::/江文亞" id="江文亞" showAs="江文亞"/>
                 <TLCPerson href="/ontology/person/::/英杰" id="英杰" showAs="英杰"/>
                 <TLCPerson href="/ontology/person/::/林静莹" id="林静莹" showAs="林静莹"/>
                 <TLCPerson href="/ontology/person/::/李姿葶" id="李姿葶" showAs="李姿葶"/>
@@ -133,7 +133,7 @@
                         …..
                     </p>
                 </speech>
-                <speech by="#江文亞&簡嘉琳">
+                <speech by="#江文亞">
                     <p>
                         現在知道
                     </p>
@@ -188,7 +188,7 @@
                         刷
                     </p>
                 </speech>
-                <speech by="#江文亞&簡嘉琳">
+                <speech by="#江文亞">
                     <p>
                         愚人節
                     </p>
@@ -313,7 +313,7 @@
                         有聲音
                     </p>
                 </speech>
-                <speech by="#江文亞&簡嘉琳">
+                <speech by="#江文亞">
                     <p>
                         都有
                     </p>
@@ -503,7 +503,7 @@
                         跨某
                     </p>
                 </speech>
-                <speech by="#江文亞&簡嘉琳">
+                <speech by="#江文亞">
                     <p>
                         我的畫面還在簡報正常嗎
                     </p>
@@ -680,7 +680,7 @@
                 </speech>
                 <speech by="#柳喻翔">
                     <p>
-                        &#x26;&#x26;&#x26;&#x26;&#x26;
+                        ～～～
                     </p>
                 </speech>
                 <speech by="#lcm">
