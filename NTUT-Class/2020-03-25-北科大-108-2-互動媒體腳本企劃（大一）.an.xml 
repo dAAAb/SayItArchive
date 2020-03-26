@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/HQ" id="HQ" showAs="HQ"/>
+                <TLCPerson href="/ontology/person/::/劉子涵" id="劉子涵" showAs="劉子涵"/>
+                <TLCPerson href="/ontology/person/::/kooo" id="kooo" showAs="kooo"/>
+                <TLCPerson href="/ontology/person/::/15821378729" id="15821378729" showAs="15821378729"/>
+                <TLCPerson href="/ontology/person/::/Que" id="Que" showAs="Que"/>
+                <TLCPerson href="/ontology/person/::/catherine chang" id="catherine chang" showAs="catherine chang"/>
+                <TLCPerson href="/ontology/person/::/寶博士" id="寶博士" showAs="寶博士"/>
+                <TLCPerson href="/ontology/person/::/家仁 劉" id="家仁 劉" showAs="家仁 劉"/>
+                <TLCPerson href="/ontology/person/::/nabi" id="nabi" showAs="nabi"/>
+                <TLCPerson href="/ontology/person/::/QH" id="QH" showAs="QH"/>
+                <TLCPerson href="/ontology/person/::/D&B 王怡菲" id="D&B 王怡菲" showAs="D&B 王怡菲"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-03-25 北科大 108-2 互動媒體腳本企劃（大一）
+                </heading>
+                <narrative>
+                    <p>
+                        <i>
+                            🏡 （
+                            <a href="https://goo.gl/maps/BJnxxwWM8y5hvaC57">
+                                北科大｜2020-03-25T17:25:52 
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            🌐 （
+                            <a href="https://youtu.be/HEEcRgJWPnI">
+                                YouTube
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#HQ">
+                    <p>
+                        hi
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#HQ">
+                    <p>
+                        ok
+                    </p>
+                </speech>
+                <speech by="#kooo">
+                    <p>
+                        <a href="https://fourdesire.com/">
+                            https://fourdesire.com/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        没声音..
+                    </p>
+                </speech>
+                <speech by="#15821378729">
+                    <p>
+                        我也是
+                    </p>
+                </speech>
+                <speech by="#HQ">
+                    <p>
+                        老師話筒沒聲音了喔
+                    </p>
+                </speech>
+                <speech by="#Que">
+                    <p>
+                        我也
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#Que">
+                    <p>
+                        聋的传人
+                    </p>
+                </speech>
+                <speech by="#15821378729">
+                    <p>
+                        退出重進也沒用
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        +！
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        hi老师
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        你在吗
+                    </p>
+                </speech>
+                <speech by="#HQ">
+                    <p>
+                        HI班代在嗎
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        hi有人在嗎
+                    </p>
+                </speech>
+                <speech by="#15821378729">
+                    <p>
+                        突然的安靜
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        最怕空氣突然安靜
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        等等
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        ok
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        了嗎
+                    </p>
+                </speech>
+                <speech by="#HQ">
+                    <p>
+                        OK
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        okay
+                    </p>
+                </speech>
+                <speech by="#家仁 劉">
+                    <p>
+                        ok
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        ok了
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        提示身體喝水
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        老師加分啊
+                    </p>
+                </speech>
+                <speech by="#15821378729">
+                    <p>
+                        bye
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        拜！
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        拜拜
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        下課了 掰掰！
+                    </p>
+                </speech>
+                <speech by="#Que">
+                    <p>
+                        bye～
+                    </p>
+                </speech>
+                <speech by="#QH">
+                    <p>
+                        88
+                    </p>
+                </speech>
+                <speech by="#D&B 王怡菲">
+                    <p>
+                        byebye
+                    </p>
+                </speech>
+                <speech by="#catherine chang">
+                    <p>
+                        886
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
