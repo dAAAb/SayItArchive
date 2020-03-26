@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/寶博士" id="寶博士" showAs="寶博士"/>
+                <TLCPerson href="/ontology/person/::/鄧英杰 Miguel" id="鄧英杰 Miguel" showAs="鄧英杰 Miguel"/>
+                <TLCPerson href="/ontology/person/::/呂靜" id="呂靜" showAs="呂靜"/>
+                <TLCPerson href="/ontology/person/::/江文亞" id="江文亞" showAs="江文亞"/>
+                <TLCPerson href="/ontology/person/::/李婉儀" id="李婉儀" showAs="李婉儀"/>
+                <TLCPerson href="/ontology/person/::/Yu-Han Lai" id="Yu-Han Lai" showAs="Yu-Han Lai"/>
+                <TLCPerson href="/ontology/person/::/107AC1005" id="107AC1005" showAs="107AC1005"/>
+                <TLCPerson href="/ontology/person/::/張亦芃" id="張亦芃" showAs="張亦芃"/>
+                <TLCPerson href="/ontology/person/::/北科大-謝易安" id="北科大-謝易安" showAs="北科大-謝易安"/>
+                <TLCPerson href="/ontology/person/::/靖雯 邱" id="靖雯 邱" showAs="靖雯 邱"/>
+                <TLCPerson href="/ontology/person/::/Gina" id="Gina" showAs="Gina"/>
+                <TLCPerson href="/ontology/person/::/麵包" id="麵包" showAs="麵包"/>
+                <TLCPerson href="/ontology/person/::/107 ac1014" id="107 ac1014" showAs="107 ac1014"/>
+                <TLCPerson href="/ontology/person/::/Wu" id="Wu" showAs="Wu"/>
+                <TLCPerson href="/ontology/person/::/劉品君" id="劉品君" showAs="劉品君"/>
+                <TLCPerson href="/ontology/person/::/白" id="白" showAs="白"/>
+                <TLCPerson href="/ontology/person/::/周 育稚" id="周 育稚" showAs="周 育稚"/>
+                <TLCPerson href="/ontology/person/::/林祺祐" id="林祺祐" showAs="林祺祐"/>
+                <TLCPerson href="/ontology/person/::/higashihigashi" id="higashihigashi" showAs="higashihigashi"/>
+                <TLCPerson href="/ontology/person/::/簡嘉琳" id="簡嘉琳" showAs="簡嘉琳"/>
+                <TLCPerson href="/ontology/person/::/大咪咪公主" id="大咪咪公主" showAs="大咪咪公主"/>
+                <TLCPerson href="/ontology/person/::/ruroo" id="ruroo" showAs="ruroo"/>
+                <TLCPerson href="/ontology/person/::/辰 葉" id="辰 葉" showAs="辰 葉"/>
+                <TLCPerson href="/ontology/person/::/定權 林" id="定權 林" showAs="定權 林"/>
+                <TLCPerson href="/ontology/person/::/吳名氏" id="吳名氏" showAs="吳名氏"/>
+                <TLCPerson href="/ontology/person/::/Yuki" id="Yuki" showAs="Yuki"/>
+                <TLCPerson href="/ontology/person/::/陳沅芝" id="陳沅芝" showAs="陳沅芝"/>
+                <TLCPerson href="/ontology/person/::/lcm" id="lcm" showAs="lcm"/>
+                <TLCPerson href="/ontology/person/::/Yvone" id="Yvone" showAs="Yvone"/>
+                <TLCPerson href="/ontology/person/::/健身狂人 阿哩" id="健身狂人 阿哩" showAs="健身狂人 阿哩"/>
+                <TLCPerson href="/ontology/person/::/謝義宗" id="謝義宗" showAs="謝義宗"/>
+                <TLCPerson href="/ontology/person/::/馮姿綺" id="馮姿綺" showAs="馮姿綺"/>
+                <TLCPerson href="/ontology/person/::/Ka Yin Hung" id="Ka Yin Hung" showAs="Ka Yin Hung"/>
+                <TLCPerson href="/ontology/person/::/阿郭" id="阿郭" showAs="阿郭"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-03-26 北科大 108-2 設計實作（大二）
+                </heading>
+                <narrative>
+                    <p>
+                        <i>
+                            🏡 （
+                            <a href="https://goo.gl/maps/BJnxxwWM8y5hvaC57">
+                                北科大｜2020-03-26T13:01:42 
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            🌐 （
+                            <a href="https://www.youtube.com/watch?v=-fsy-nYsA5k">
+                                YouTube
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#寶博士">
+                    <p>
+                        請大家稍等
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        先點名
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        到 ZUVIO
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        ok
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        好喔
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#江文亞">
+                    <p>
+                        聽得到
+                    </p>
+                </speech>
+                <speech by="#李婉儀">
+                    <p>
+                        ys
+                    </p>
+                </speech>
+                <speech by="#Yu-Han Lai">
+                    <p>
+                        yes
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        yes
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        老師YT頻道有教學
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.youtube.com/watch?v=nO-H8TFpNfs">
+                            https://www.youtube.com/watch?v=nO-H8TFpNfs
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        但我沒麥耶
+                    </p>
+                </speech>
+                <speech by="#北科大-謝易安">
+                    <p>
+                        zoom環境調查過了耶
+                    </p>
+                </speech>
+                <speech by="#靖雯 邱">
+                    <p>
+                        按ㄌ
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        移覺
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        賴語涵
+                    </p>
+                </speech>
+                <speech by="#Yu-Han Lai">
+                    <p>
+                        呂靜
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        英文字幕可以啦
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        狗狗好可愛
+                    </p>
+                </speech>
+                <speech by="#麵包">
+                    <p>
+                        影片有點大聲
+                    </p>
+                </speech>
+                <speech by="#107 ac1014">
+                    <p>
+                        希望口以 盃冷斯
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        畫面還在網址那
+                    </p>
+                </speech>
+                <speech by="#107 ac1014">
+                    <p>
+                        tks
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        老師可以借嗎
+                    </p>
+                </speech>
+                <speech by="#北科大-謝易安">
+                    <p>
+                        正
+                    </p>
+                </speech>
+                <speech by="#Wu">
+                    <p>
+                        正的
+                    </p>
+                </speech>
+                <speech by="#劉品君">
+                    <p>
+                        正的
+                    </p>
+                </speech>
+                <speech by="#北科大-謝易安">
+                    <p>
+                        對
+                    </p>
+                </speech>
+                <speech by="#劉品君">
+                    <p>
+                        99
+                    </p>
+                </speech>
+                <speech by="#北科大-謝易安">
+                    <p>
+                        因為只有兩格
+                    </p>
+                </speech>
+                <speech by="#白">
+                    <p>
+                        因為她只有兩個顯示
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        6666
+                    </p>
+                </speech>
+                <speech by="#白">
+                    <p>
+                        厲害吧
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        66666
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        我都不知道
+                    </p>
+                </speech>
+                <speech by="#higashihigashi">
+                    <p>
+                        66666666
+                    </p>
+                </speech>
+                <speech by="#白">
+                    <p>
+                        佩服吧
+                    </p>
+                </speech>
+                <speech by="#簡嘉琳">
+                    <p>
+                        66666666
+                    </p>
+                </speech>
+                <speech by="#白">
+                    <p>
+                        河邊的臭小孩都像是惡魔
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        好喜歡白白
+                    </p>
+                </speech>
+                <speech by="#白">
+                    <p>
+                        對著我比666
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        喔喔
+                    </p>
+                </speech>
+                <speech by="#ruroo">
+                    <p>
+                        壓力感測器
+                    </p>
+                </speech>
+                <speech by="#higashihigashi">
+                    <p>
+                        壓力感測
+                    </p>
+                </speech>
+                <speech by="#北科大-謝易安">
+                    <p>
+                        重力感測
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        666
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        6666666
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        666666
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        酷酷酷
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        真d牛
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        7777777777
+                    </p>
+                </speech>
+                <speech by="#辰 葉">
+                    <p>
+                        好厲害
+                    </p>
+                </speech>
+                <speech by="#辰 葉">
+                    <p>
+                        好厲害啊
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        牛P
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        我要叫阿罵買給我
+                    </p>
+                </speech>
+                <speech by="#劉品君">
+                    <p>
+                        涼嗎
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        woahhh
+                    </p>
+                </speech>
+                <speech by="#定權 林">
+                    <p>
+                        666
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        6666
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        聲音好空靈
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        看了three small
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        吳婉欣
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        吳名氏啦
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        6666666666666
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        7777777777
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        太鉉泡了吧
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        休士頓 我們有狀況了
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        Ground control to major Tom
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        水ㄟ吉納
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        好歌好歌
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        qq
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        被思而
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        我們會跟同學一起玩
+                    </p>
+                </speech>
+                <speech by="#定權 林">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        好棒
+                    </p>
+                </speech>
+                <speech by="#Yuki">
+                    <p>
+                        英傑沒有洗手
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        髒
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        我用酒精直接喝
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        難道你的手會流出酒精？
+                    </p>
+                </speech>
+                <speech by="#ruroo">
+                    <p>
+                        喇叭
+                    </p>
+                </speech>
+                <speech by="#簡嘉琳">
+                    <p>
+                        老師你關MIC
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        老師你靜音
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        老師你沒開聲音
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        老師尼梅森因
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        是我打開的方式不對嗎
+                    </p>
+                </speech>
+                <speech by="#Yuki">
+                    <p>
+                        teacher
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        聽不見..
+                    </p>
+                </speech>
+                <speech by="#Yuki">
+                    <p>
+                        we cant hear you
+                    </p>
+                </speech>
+                <speech by="#劉品君">
+                    <p>
+                        沒聲音
+                    </p>
+                </speech>
+                <speech by="#Yu-Han Lai">
+                    <p>
+                        老師沒聲音
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        老師你靜音自己了
+                    </p>
+                </speech>
+                <speech by="#陳沅芝">
+                    <p>
+                        能不能開聲音
+                    </p>
+                </speech>
+                <speech by="#Yu-Han Lai">
+                    <p>
+                        老師
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        大家一起玩你話我猜
+                    </p>
+                </speech>
+                <speech by="#Yu-Han Lai">
+                    <p>
+                        老師
+                    </p>
+                </speech>
+                <speech by="#劉品君">
+                    <p>
+                        老師
+                        <del>
+                            ~
+                        </del>
+                    </p>
+                </speech>
+                <speech by="#Yu-Han Lai">
+                    <p>
+                        老師
+                    </p>
+                </speech>
+                <speech by="#簡嘉琳">
+                    <p>
+                        :D
+                    </p>
+                </speech>
+                <speech by="#簡嘉琳">
+                    <p>
+                        :D
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        好好笑
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        蒿
+                    </p>
+                </speech>
+                <speech by="#張亦芃">
+                    <p>
+                        神經網絡ㄇ
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        腦袋ㄉ邏輯歸納法
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        好口愛
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        幸好撩妹的對話沒出來
+                    </p>
+                </speech>
+                <speech by="#定權 林">
+                    <p>
+                        對不起
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        在工廠做
+                    </p>
+                </speech>
+                <speech by="#Yuki">
+                    <p>
+                        撩英傑
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://teachablemachine.withgoogle.com/v1/">
+                            https://teachablemachine.withgoogle.com/v1/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        平板用不了哭哭
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        iPad 嗎？
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        對
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        可以下載 Chrome 瀏覽器 試試看
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        已下載
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        他還是不讓用
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        幫Q
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        qqqq
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        1 cm
+                    </p>
+                </speech>
+                <speech by="#lcm">
+                    <p>
+                        LCM
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        陳怡璇
+                    </p>
+                </speech>
+                <speech by="#鄧英杰 Miguel">
+                    <p>
+                        應該洗手間
+                    </p>
+                </speech>
+                <speech by="#higashihigashi">
+                    <p>
+                        在啊
+                    </p>
+                </speech>
+                <speech by="#Yvone">
+                    <p>
+                        吳名氏
+                    </p>
+                </speech>
+                <speech by="#higashihigashi">
+                    <p>
+                        我
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        對
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        777777777777777777777777777777777
+                    </p>
+                </speech>
+                <speech by="#lcm">
+                    <p>
+                        6666666
+                    </p>
+                </speech>
+                <speech by="#健身狂人 阿哩">
+                    <p>
+                        操
+                    </p>
+                </speech>
+                <speech by="#謝義宗">
+                    <p>
+                        77777777777
+                    </p>
+                </speech>
+                <speech by="#健身狂人 阿哩">
+                    <p>
+                        肖像權啦
+                    </p>
+                </speech>
+                <speech by="#健身狂人 阿哩">
+                    <p>
+                        777777777
+                    </p>
+                </speech>
+                <speech by="#健身狂人 阿哩">
+                    <p>
+                        77777777
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        彥彬好帥
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        666
+                    </p>
+                </speech>
+                <speech by="#李婉儀">
+                    <p>
+                        wwwwww
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        666666
+                    </p>
+                </speech>
+                <speech by="#lcm">
+                    <p>
+                        66666666
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        這牛的聲音很酷
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        拍拍拍
+                    </p>
+                </speech>
+                <speech by="#馮姿綺">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        在
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        兩個瘋子器
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        瘋子器
+                    </p>
+                </speech>
+                <speech by="#Yuki">
+                    <p>
+                        婉欣說她也要
+                    </p>
+                </speech>
+                <speech by="#Yuki">
+                    <p>
+                        示範
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        吳婉欣
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        1宗
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        吳婉欣
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        各表
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        我用電腦
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        我用電腦
+                    </p>
+                </speech>
+                <speech by="#謝義宗">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        speech
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        第三張看起來在比中指
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        可以開speech
+                    </p>
+                </speech>
+                <speech by="#吳名氏">
+                    <p>
+                        你才比中指
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://teachablemachine.withgoogle.com/">
+                            https://teachablemachine.withgoogle.com/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        7777777777
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        lol
+                    </p>
+                </speech>
+                <speech by="#lcm">
+                    <p>
+                        6666666
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        66666666
+                    </p>
+                </speech>
+                <speech by="#Gina">
+                    <p>
+                        好瘋
+                    </p>
+                </speech>
+                <speech by="#定權 林">
+                    <p>
+                        刷火箭
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        這才是我要的程式設計課
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        dab
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        dab
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        lol
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        就是不用寫才讚
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        🚀🚀🚀🚀🚀🚀🚀
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        老師擺dab
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        撒鹽
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        希特勒
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        j83e0 286
+                    </p>
+                </speech>
+                <speech by="#Yuki">
+                    <p>
+                        加鹽
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        777777777777777
+                    </p>
+                </speech>
+                <speech by="#林祺祐">
+                    <p>
+                        7777777777
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        okok
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        害羞 可以用別人嗎
+                    </p>
+                </speech>
+                <speech by="#107AC1005">
+                    <p>
+                        你要怎麼用別人
+                    </p>
+                </speech>
+                <speech by="#呂靜">
+                    <p>
+                        好棒
+                    </p>
+                </speech>
+                <speech by="#簡嘉琳">
+                    <p>
+                        …
+                    </p>
+                </speech>
+                <speech by="#簡嘉琳">
+                    <p>
+                        鏡頭壞了˙…
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        88
+                    </p>
+                </speech>
+                <speech by="#大咪咪公主">
+                    <p>
+                        校史
+                    </p>
+                </speech>
+                <speech by="#Ka Yin Hung">
+                    <p>
+                        88888
+                    </p>
+                </speech>
+                <speech by="#阿郭">
+                    <p>
+                        8888
+                    </p>
+                </speech>
+                <speech by="#簡嘉琳">
+                    <p>
+                        重開
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.youtube.com/watch?v=nO-H8TFpNfs">
+                            https://www.youtube.com/watch?v=nO-H8TFpNfs
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#周 育稚">
+                    <p>
+                        8
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
