@@ -13,7 +13,7 @@
                 <TLCPerson href="/ontology/person/::/家仁 劉" id="家仁 劉" showAs="家仁 劉"/>
                 <TLCPerson href="/ontology/person/::/nabi" id="nabi" showAs="nabi"/>
                 <TLCPerson href="/ontology/person/::/QH" id="QH" showAs="QH"/>
-                <TLCPerson href="/ontology/person/::/D&B 王怡菲" id="D&B 王怡菲" showAs="D&B 王怡菲"/>
+                <TLCPerson href="/ontology/person/::/D＆B 王怡菲" id="D＆B 王怡菲" showAs="D＆B 王怡菲"/>
             </references>
         </meta>
         <debateBody>
@@ -102,7 +102,7 @@
                 </speech>
                 <speech by="#catherine chang">
                     <p>
-                        plus question mark
+                        +！
                     </p>
                 </speech>
                 <speech by="#catherine chang">
@@ -215,7 +215,7 @@
                         88
                     </p>
                 </speech>
-                <speech by="#DandB 王怡菲">
+                <speech by="#D＆B 王怡菲">
                     <p>
                         byebye
                     </p>
