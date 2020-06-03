@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/鄭力綾" id="鄭力綾" showAs="鄭力綾"/>
+                <TLCPerson href="/ontology/person/::/劉家仁" id="劉家仁" showAs="劉家仁"/>
+                <TLCPerson href="/ontology/person/::/郭芝伶" id="郭芝伶" showAs="郭芝伶"/>
+                <TLCPerson href="/ontology/person/::/余正鵬" id="余正鵬" showAs="余正鵬"/>
+                <TLCPerson href="/ontology/person/::/miaoru" id="miaoru" showAs="miaoru"/>
+                <TLCPerson href="/ontology/person/::/yip ho tin" id="yip ho tin" showAs="yip ho tin"/>
+                <TLCPerson href="/ontology/person/::/昕" id="昕" showAs="昕"/>
+                <TLCPerson href="/ontology/person/::/寶博士" id="寶博士" showAs="寶博士"/>
+                <TLCPerson href="/ontology/person/::/Bonnie Lo" id="Bonnie Lo" showAs="Bonnie Lo"/>
+                <TLCPerson href="/ontology/person/::/徐牧凡" id="徐牧凡" showAs="徐牧凡"/>
+                <TLCPerson href="/ontology/person/::/鄭高峰" id="鄭高峰" showAs="鄭高峰"/>
+                <TLCPerson href="/ontology/person/::/陳裔妘" id="陳裔妘" showAs="陳裔妘"/>
+                <TLCPerson href="/ontology/person/::/朱子希" id="朱子希" showAs="朱子希"/>
+                <TLCPerson href="/ontology/person/::/h5921" id="h5921" showAs="h5921"/>
+                <TLCPerson href="/ontology/person/::/李佩佳" id="李佩佳" showAs="李佩佳"/>
+                <TLCPerson href="/ontology/person/::/龐琼美" id="龐琼美" showAs="龐琼美"/>
+                <TLCPerson href="/ontology/person/::/佩臻 謝" id="佩臻 謝" showAs="佩臻 謝"/>
+                <TLCPerson href="/ontology/person/::/澐" id="澐" showAs="澐"/>
+                <TLCPerson href="/ontology/person/::/鄭郁齡" id="鄭郁齡" showAs="鄭郁齡"/>
+                <TLCPerson href="/ontology/person/::/廖芊嘉" id="廖芊嘉" showAs="廖芊嘉"/>
+                <TLCPerson href="/ontology/person/::/靖娉 黄" id="靖娉 黄" showAs="靖娉 黄"/>
+                <TLCPerson href="/ontology/person/::/呂亞衡" id="呂亞衡" showAs="呂亞衡"/>
+                <TLCPerson href="/ontology/person/::/林寧" id="林寧" showAs="林寧"/>
+                <TLCPerson href="/ontology/person/::/nabi" id="nabi" showAs="nabi"/>
+                <TLCPerson href="/ontology/person/::/藍科晨" id="藍科晨" showAs="藍科晨"/>
+                <TLCPerson href="/ontology/person/::/陳語哲" id="陳語哲" showAs="陳語哲"/>
+                <TLCPerson href="/ontology/person/::/林詩涵" id="林詩涵" showAs="林詩涵"/>
+                <TLCPerson href="/ontology/person/::/kaiyan" id="kaiyan" showAs="kaiyan"/>
+                <TLCPerson href="/ontology/person/::/盧姿予" id="盧姿予" showAs="盧姿予"/>
+                <TLCPerson href="/ontology/person/::/QH" id="QH" showAs="QH"/>
+                <TLCPerson href="/ontology/person/::/李佳霖" id="李佳霖" showAs="李佳霖"/>
+                <TLCPerson href="/ontology/person/::/卓心雲" id="卓心雲" showAs="卓心雲"/>
+                <TLCPerson href="/ontology/person/::/劉子涵" id="劉子涵" showAs="劉子涵"/>
+                <TLCPerson href="/ontology/person/::/徐綺琪" id="徐綺琪" showAs="徐綺琪"/>
+                <TLCPerson href="/ontology/person/::/徐子焓" id="徐子焓" showAs="徐子焓"/>
+                <TLCPerson href="/ontology/person/::/佩佳 李" id="佩佳 李" showAs="佩佳 李"/>
+                <TLCPerson href="/ontology/person/::/劉芝良" id="劉芝良" showAs="劉芝良"/>
+                <TLCPerson href="/ontology/person/::/洪錫範" id="洪錫範" showAs="洪錫範"/>
+                <TLCPerson href="/ontology/person/::/jen" id="jen" showAs="jen"/>
+                <TLCPerson href="/ontology/person/::/ee Que" id="ee Que" showAs="ee Que"/>
+                <TLCPerson href="/ontology/person/::/李婕澐" id="李婕澐" showAs="李婕澐"/>
+                <TLCPerson href="/ontology/person/::/yuxin" id="yuxin" showAs="yuxin"/>
+                <TLCPerson href="/ontology/person/::/brandonft12" id="brandonft12" showAs="brandonft12"/>
+                <TLCPerson href="/ontology/person/::/黃丞君" id="黃丞君" showAs="黃丞君"/>
+                <TLCPerson href="/ontology/person/::/謝承邑" id="謝承邑" showAs="謝承邑"/>
+                <TLCPerson href="/ontology/person/::/ben111611" id="ben111611" showAs="ben111611"/>
+                <TLCPerson href="/ontology/person/::/璀璨" id="璀璨" showAs="璀璨"/>
+                <TLCPerson href="/ontology/person/::/gobUrrrrin" id="gobUrrrrin" showAs="gobUrrrrin"/>
+                <TLCPerson href="/ontology/person/::/朱映如" id="朱映如" showAs="朱映如"/>
+                <TLCPerson href="/ontology/person/::/魏均佾" id="魏均佾" showAs="魏均佾"/>
+                <TLCPerson href="/ontology/person/::/wilbertiewinata" id="wilbertiewinata" showAs="wilbertiewinata"/>
+                <TLCPerson href="/ontology/person/::/Catherinne Chang" id="Catherinne Chang" showAs="Catherinne Chang"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2020-06-03 北科大 108-2 互動媒體腳本企劃（大一）
+                </heading>
+                <narrative>
+                    <p>
+                        <i>
+                            🏡 （
+                            <a href="https://goo.gl/maps/BJnxxwWM8y5hvaC57">
+                                北科大｜2020-06-03T17:12:20 
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            🌐 （
+                            <a href="https://youtu.be/5ytfK3lD4E4">
+                                YouTube
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#鄭力綾">
+                    <p>
+                        是我www
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        人數緩慢上升中
+                    </p>
+                </speech>
+                <speech by="#郭芝伶">
+                    <p>
+                        老師剪頭髮
+                    </p>
+                </speech>
+                <speech by="#余正鵬">
+                    <p>
+                        s帥
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        好潮
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        工商
+                    </p>
+                </speech>
+                <speech by="#昕">
+                    <p>
+                        聊天室有沒有人OuO
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.webex.com/downloads.html">
+                            https://www.webex.com/downloads.html
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        what’s that?
+                    </p>
+                </speech>
+                <speech by="#徐牧凡">
+                    <p>
+                        肯定要有的
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        會
+                    </p>
+                </speech>
+                <speech by="#陳裔妘">
+                    <p>
+                        小嬰兒也可以拿
+                    </p>
+                </speech>
+                <speech by="#朱子希">
+                    <p>
+                        1000換3000
+                    </p>
+                </speech>
+                <speech by="#徐牧凡">
+                    <p>
+                        誰不要可以給我
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        animal crossing ma?
+                    </p>
+                </speech>
+                <speech by="#h5921">
+                    <p>
+                        我1500收
+                    </p>
+                </speech>
+                <speech by="#徐牧凡">
+                    <p>
+                        我1600
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        那個是什麼
+                    </p>
+                </speech>
+                <speech by="#徐牧凡">
+                    <p>
+                        你沒有的東西
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        振興三倍
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        哭哭
+                    </p>
+                </speech>
+                <speech by="#徐牧凡">
+                    <p>
+                        爽
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        港生哭哭
+                    </p>
+                </speech>
+                <speech by="#h5921">
+                    <p>
+                        3500賣你
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        美國bad
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        沒辦法 他們開始的時候不願意戴口罩
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        no
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        爪迷
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        lol
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        xD
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        中信兄弟
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        的粉絲代稱
+                    </p>
+                </speech>
+                <speech by="#鄭高峰">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#李佩佳">
+                    <p>
+                        嗨
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        hello
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        你好
+                    </p>
+                </speech>
+                <speech by="#龐琼美">
+                    <p>
+                        嗨
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        miao ru ello
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        bonbon hi
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        :3
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        nya~
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        hello
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        會議密碼： iSNMBSHM226
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        iSNMBSHM226
+                    </p>
+                </speech>
+                <speech by="#澐">
+                    <p>
+                        攝影頭壞掉
+                    </p>
+                </speech>
+                <speech by="#鄭郁齡">
+                    <p>
+                        老師我開不了
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        my webcam cant connect
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        but i can say hi
+                    </p>
+                </speech>
+                <speech by="#郭芝伶">
+                    <p>
+                        嗨嗨
+                    </p>
+                </speech>
+                <speech by="#廖芊嘉">
+                    <p>
+                        嗨嗨
+                    </p>
+                </speech>
+                <speech by="#澐">
+                    <p>
+                        嗨嗨
+                    </p>
+                </speech>
+                <speech by="#李佩佳">
+                    <p>
+                        嗨
+                    </p>
+                </speech>
+                <speech by="#靖娉 黄">
+                    <p>
+                        我電腦沒攝像頭
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        :
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        ｟”:
+                    </p>
+                </speech>
+                <speech by="#李佩佳">
+                    <p>
+                        clap
+                    </p>
+                </speech>
+                <speech by="#郭芝伶">
+                    <p>
+                        👏
+                    </p>
+                </speech>
+                <speech by="#陳裔妘">
+                    <p>
+                        👏👏👏👏👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#呂亞衡">
+                    <p>
+                        掌聲
+                    </p>
+                </speech>
+                <speech by="#林寧">
+                    <p>
+                        Hi
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        👏👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        👏👏👏
+                    </p>
+                </speech>
+                <speech by="#林寧">
+                    <p>
+                        👏🏻👏🏻👏🏻👏🏻
+                    </p>
+                </speech>
+                <speech by="#鄭力綾">
+                    <p>
+                        拍拍拍
+                    </p>
+                </speech>
+                <speech by="#郭芝伶">
+                    <p>
+                        啪啪啪啪啪啪
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ❯❮
+                    </p>
+                </speech>
+                <speech by="#廖芊嘉">
+                    <p>
+                        👏
+                    </p>
+                </speech>
+                <speech by="#陳語哲">
+                    <p>
+                        掌聲.mp3
+                    </p>
+                </speech>
+                <speech by="#林詩涵">
+                    <p>
+                        👏🏻👏🏻👏🏻👏🏻👏🏻
+                    </p>
+                </speech>
+                <speech by="#kaiyan">
+                    <p>
+                        棒
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        掌聲歡迎
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        👏👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#盧姿予">
+                    <p>
+                        clap
+                    </p>
+                </speech>
+                <speech by="#QH">
+                    <p>
+                        啪啪啪啪啪
+                    </p>
+                </speech>
+                <speech by="#李佳霖">
+                    <p>
+                        👏👏👏
+                    </p>
+                </speech>
+                <speech by="#卓心雲">
+                    <p>
+                        掌
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        赞
+                    </p>
+                </speech>
+                <speech by="#徐綺琪">
+                    <p>
+                        ,,👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#李佩佳">
+                    <p>
+                        👏🏿👏🏿👏🏿
+                    </p>
+                </speech>
+                <speech by="#h5921">
+                    <p>
+                        口口口口
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ｟,,・ω・,,｠
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        nothing
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        好呦
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        天工開物
+                    </p>
+                </speech>
+                <speech by="#廖芊嘉">
+                    <p>
+                        有聽過
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        爪迷呢？
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        歡迎大家到這裡 po 問題 
+                        <a href="https://irs.zuvio.com.tw/teacher/console/495483/8144344">
+                            https://irs.zuvio.com.tw/teacher/console/495483/8144344
+                        </a>
+                         待會請講者回答～
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        yeah
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#靖娉 黄">
+                    <p>
+                        聽得到！
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        聽得到
+                    </p>
+                </speech>
+                <speech by="#徐子焓">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#QH">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#h5921">
+                    <p>
+                        畫面好像卡住了
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        影片很順
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        好酷
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        XDD
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        不!!!我們錯過了
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        wwwwwwww
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        巨人
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        attack on titan
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        拉拉熊
+                    </p>
+                </speech>
+                <speech by="#洪錫範">
+                    <p>
+                        航海王
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        海賊
+                    </p>
+                </speech>
+                <speech by="#廖芊嘉">
+                    <p>
+                        海賊王
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        海賊
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        海賊
+                    </p>
+                </speech>
+                <speech by="#靖娉 黄">
+                    <p>
+                        海賊王
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        巨人
+                    </p>
+                </speech>
+                <speech by="#陳語哲">
+                    <p>
+                        進擊
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        进击的巨人
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        大家都喜歡醜醜拉拉熊
+                    </p>
+                </speech>
+                <speech by="#jen">
+                    <p>
+                        拉拉
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        拉拉熊
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        巨人
+                    </p>
+                </speech>
+                <speech by="#ee Que">
+                    <p>
+                        拉拉熊
+                    </p>
+                </speech>
+                <speech by="#李婕澐">
+                    <p>
+                        巨人
+                    </p>
+                </speech>
+                <speech by="#盧姿予">
+                    <p>
+                        拉拉熊
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        OMG
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        WTF
+                    </p>
+                </speech>
+                <speech by="#徐子焓">
+                    <p>
+                        拉拉
+                    </p>
+                </speech>
+                <speech by="#廖芊嘉">
+                    <p>
+                        ⊙_⊙
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        XDDDDD
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        :0000
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        @__@
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        ME
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        時藝多媒體
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        今傳媒
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        聯合報
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        金傳媒
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        but covid 19
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        too bad
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        i feel like shit because i cant go back home
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        Enjoy life in Taiwan
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        :’｠
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        6
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        3
+                    </p>
+                </speech>
+                <speech by="#徐子焓">
+                    <p>
+                        8
+                    </p>
+                </speech>
+                <speech by="#yuxin">
+                    <p>
+                        6
+                    </p>
+                </speech>
+                <speech by="#陳裔妘">
+                    <p>
+                        8
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        8
+                    </p>
+                </speech>
+                <speech by="#朱子希">
+                    <p>
+                        6
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        8
+                    </p>
+                </speech>
+                <speech by="#林寧">
+                    <p>
+                        6
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        @ o @
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        ❯:0000
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        Sorry I still dont understand
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        太專業ㄌ
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        technology and me aren’t friends
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        ok
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#yuxin">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        : ｠
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#陳裔妘">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#陳語哲">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        好壓
+                    </p>
+                </speech>
+                <speech by="#郭芝伶">
+                    <p>
+                        要
+                    </p>
+                </speech>
+                <speech by="#kaiyan">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#林寧">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        不見ㄌ
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        現在可以了
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        yes
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#徐子焓">
+                    <p>
+                        ok
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        miao ru :3
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        he froze
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        寶可夢卡牌有人在玩嗎
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        Teacher isn’t just me or did he froze?
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        is it*
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        No
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        流暢ˋ
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        流暢
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        Your internet is fine
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        流暢
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        流暢
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        turn off your league of legends
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        HAHAHA
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        bon 幹嘛一直叫我
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        i love u
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        District
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        psy in taiwanese means poo
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        ….
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        6 O 6
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        你一邊講話會聽不清楚
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        yes
+                    </p>
+                </speech>
+                <speech by="#yuxin">
+                    <p>
+                        听得到
+                    </p>
+                </speech>
+                <speech by="#徐牧凡">
+                    <p>
+                        好扯喔
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        好啊
+                    </p>
+                </speech>
+                <speech by="#林詩涵">
+                    <p>
+                        想
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        好
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        全息投影
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        好厲害
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        不懂
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        哭哭
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        Holographic
+                    </p>
+                </speech>
+                <speech by="#陳語哲">
+                    <p>
+                        HoloLens
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        D:
+                    </p>
+                </speech>
+                <speech by="#朱子希">
+                    <p>
+                        初音未來算嗎
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        hologram?
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://kknews.cc/zh-tw/entertainment/8rq6r4.html">
+                            https://kknews.cc/zh-tw/entertainment/8rq6r4.html
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        Hologram
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        The was a japanese guy who married a hologram anime character
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        what has the world come to
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        好尷尬
+                    </p>
+                </speech>
+                <speech by="#李婕澐">
+                    <p>
+                        -
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        HAHAHAHA XD
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        oops
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        Andrew~
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        你的網路…
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        andrew be running a toaster
+                    </p>
+                </speech>
+                <speech by="#靖娉 黄">
+                    <p>
+                        聽得到
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        畫面好像有點卡?
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        Andrew
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        :00
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        G
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        im not into sports but I will be willing to do vr dating
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        Andrew
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        聽不到
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        我的耳朵XD
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        yes
+                    </p>
+                </speech>
+                <speech by="#yuxin">
+                    <p>
+                        可以
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        OK
+                    </p>
+                </speech>
+                <speech by="#brandonft12">
+                    <p>
+                        可
+                    </p>
+                </speech>
+                <speech by="#ee Que">
+                    <p>
+                        可
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        7/14-8/9
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        運動博覽會
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        知道
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        之前統一的
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        BD = Business Development = 業務開發
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        : D
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        Thanks
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        程式、業務💰🤑
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ｟◔౪◔｠
+                    </p>
+                </speech>
+                <speech by="#黃丞君">
+                    <p>
+                        %
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        woooh
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        啪啪啪啪
+                    </p>
+                </speech>
+                <speech by="#h5921">
+                    <p>
+                        口口口口
+                    </p>
+                </speech>
+                <speech by="#陳裔妘">
+                    <p>
+                        👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#kaiyan">
+                    <p>
+                        掌聲
+                    </p>
+                </speech>
+                <speech by="#盧姿予">
+                    <p>
+                        clapclapclap
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        !!!!!!!!!!!!!!!!!!
+                    </p>
+                </speech>
+                <speech by="#呂亞衡">
+                    <p>
+                        掌聲
+                    </p>
+                </speech>
+                <speech by="#佩臻 謝">
+                    <p>
+                        ｟｟掌聲
+                    </p>
+                </speech>
+                <speech by="#李佳霖">
+                    <p>
+                        👏👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        !!!!!!!!!!!!!!!!!!
+                    </p>
+                </speech>
+                <speech by="#QH">
+                    <p>
+                        啪啪啪啪啪
+                    </p>
+                </speech>
+                <speech by="#廖芊嘉">
+                    <p>
+                        👏
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ｟◔౪◔｠
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        !!!!!!!!!!!!!
+                    </p>
+                </speech>
+                <speech by="#鄭力綾">
+                    <p>
+                        拍手拍手
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ｟◔౪◔｠
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ｟◔౪◔｠
+                    </p>
+                </speech>
+                <speech by="#昕">
+                    <p>
+                        啪啪啪啪啪啪啪啪啪啪啪
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ｟◔౪◔｠
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        🙌👏👏👏👏👏👏
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        :3
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        讚讚
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        :3
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        miaoru
+                    </p>
+                </speech>
+                <speech by="#謝承邑">
+                    <p>
+                        拍拍手
+                    </p>
+                </speech>
+                <speech by="#徐綺琪">
+                    <p>
+                        精彩
+                    </p>
+                </speech>
+                <speech by="#林寧">
+                    <p>
+                        👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        讚
+                    </p>
+                </speech>
+                <speech by="#ben111611">
+                    <p>
+                        拍手
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        hong
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        👏
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        xi
+                    </p>
+                </speech>
+                <speech by="#龐琼美">
+                    <p>
+                        👏👏
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        fian
+                    </p>
+                </speech>
+                <speech by="#yuxin">
+                    <p>
+                        掌声！！！
+                    </p>
+                </speech>
+                <speech by="#璀璨">
+                    <p>
+                        777
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        thanks
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ლ(́◕◞౪◟◕‵ლ｠
+                    </p>
+                </speech>
+                <speech by="#kaiyan">
+                    <p>
+                        拍拍
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ლ(́◕◞౪◟◕‵ლ｠
+                    </p>
+                </speech>
+                <speech by="#gobUrrrrin">
+                    <p>
+                        %%%%%%%%
+                    </p>
+                </speech>
+                <speech by="#藍科晨">
+                    <p>
+                        ლ(́◕◞౪◟◕‵ლ｠
+                    </p>
+                </speech>
+                <speech by="#h5921">
+                    <p>
+                        ░░░▐▀▀▄█▀▀▀▀▀▒▄▒▀▌░░░░
+░░░▐▒█▀▒▒▒▒▒▒▒▒▀█░░░░░
+░░░░█▒▒▒▒▒▒▒▒▒▒▒▀▌░░░░
+░░░░▌▒██▒▒▒▒██▒▒▒▐░░░░
+░░░░▌▒▒▄▒██▒▄▄▒▒▒▐░░░░
+░░░▐▒▒▒▀▄█▀█▄▀▒▒▒▒█▄░░
+░░░▀█▄▒▒▐▐▄▌▌▒▒▄▐▄▐░░░
+░░▄▀▒▒▄▒▒▀▀▀▒▒▒▒▀▒▀▄░░
+░░█▒▀█▀▌▒▒▒▒▒▄▄▄▐▒▒▐░░
+░░░▀▄▄▌▌▒▒▒▒▐▒▒▒▀▒▒▐░░
+░░░░░░░▐▌▒▒▒▒▀▄▄▄▄▄▀░░
+░░░░░░░░▐▄▒▒▒▒▒▒▒▒▐░░░
+░░░░░░░░▌▒▒▒▒▄▄▒▒▒▐░░░
+                    </p>
+                </speech>
+                <speech by="#朱映如">
+                    <p>
+                        👏👏👏
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        ❮3
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        ♥
+                    </p>
+                </speech>
+                <speech by="#QH">
+                    <p>
+                        啪啪啪啪
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        !♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        !♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥!♥♥♥
+                    </p>
+                </speech>
+                <speech by="#黃丞君">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        ☺!♥♥♥
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        謝謝
+                    </p>
+                </speech>
+                <speech by="#yip ho tin">
+                    <p>
+                        bye
+                    </p>
+                </speech>
+                <speech by="#林詩涵">
+                    <p>
+                        👏🏻
+                    </p>
+                </speech>
+                <speech by="#Bonnie Lo">
+                    <p>
+                        Bye
+                    </p>
+                </speech>
+                <speech by="#佩佳 李">
+                    <p>
+                        888
+                    </p>
+                </speech>
+                <speech by="#黃丞君">
+                    <p>
+                        ❮388
+                    </p>
+                </speech>
+                <speech by="#yuxin">
+                    <p>
+                        拜拜
+                    </p>
+                </speech>
+                <speech by="#QH">
+                    <p>
+                        8888888
+                    </p>
+                </speech>
+                <speech by="#劉家仁">
+                    <p>
+                        8888888
+                    </p>
+                </speech>
+                <speech by="#陳裔妘">
+                    <p>
+                        888
+                    </p>
+                </speech>
+                <speech by="#龐琼美">
+                    <p>
+                        Byee
+                    </p>
+                </speech>
+                <speech by="#ee Que">
+                    <p>
+                        bye
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        88888888
+                    </p>
+                </speech>
+                <speech by="#魏均佾">
+                    <p>
+                        8888
+                    </p>
+                </speech>
+                <speech by="#璀璨">
+                    <p>
+                        8888888888888888888
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        8888
+                    </p>
+                </speech>
+                <speech by="#陳語哲">
+                    <p>
+                        888
+                    </p>
+                </speech>
+                <speech by="#miaoru">
+                    <p>
+                        8888888885
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        88
+                    </p>
+                </speech>
+                <speech by="#wilbertiewinata">
+                    <p>
+                        byebye
+                    </p>
+                </speech>
+                <speech by="#劉芝良">
+                    <p>
+                        8
+                    </p>
+                </speech>
+                <speech by="#林寧">
+                    <p>
+                        888
+                    </p>
+                </speech>
+                <speech by="#brandonft12">
+                    <p>
+                        dadah
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        88888888
+                    </p>
+                </speech>
+                <speech by="#jen">
+                    <p>
+                        8
+                    </p>
+                </speech>
+                <speech by="#nabi">
+                    <p>
+                        好滴！
+                    </p>
+                </speech>
+                <speech by="#kaiyan">
+                    <p>
+                        88888888
+                    </p>
+                </speech>
+                <speech by="#洪錫範">
+                    <p>
+                        掰
+                    </p>
+                </speech>
+                <speech by="#gobUrrrrin">
+                    <p>
+                        88888
+                    </p>
+                </speech>
+                <speech by="#徐子焓">
+                    <p>
+                        8888
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        8888888888888888888
+                    </p>
+                </speech>
+                <speech by="#ben111611">
+                    <p>
+                        88
+                    </p>
+                </speech>
+                <speech by="#璀璨">
+                    <p>
+                        8888888888888888
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        謝謝大家～
+                    </p>
+                </speech>
+                <speech by="#Catherinne Chang">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#劉子涵">
+                    <p>
+                        掰
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
