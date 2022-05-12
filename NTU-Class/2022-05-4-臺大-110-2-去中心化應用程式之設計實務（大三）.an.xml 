@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Chang Kuan-Yun" id="Chang Kuan-Yun" showAs="Chang Kuan-Yun"/>
+                <TLCPerson href="/ontology/person/::/寶博士" id="寶博士" showAs="寶博士"/>
+                <TLCPerson href="/ontology/person/::/r09525059" id="r09525059" showAs="r09525059"/>
+                <TLCPerson href="/ontology/person/::/R08944029" id="R08944029" showAs="R08944029"/>
+                <TLCPerson href="/ontology/person/::/yc" id="yc" showAs="yc"/>
+                <TLCPerson href="/ontology/person/::/陳翰生" id="陳翰生" showAs="陳翰生"/>
+                <TLCPerson href="/ontology/person/::/Simon" id="Simon" showAs="Simon"/>
+                <TLCPerson href="/ontology/person/::/王靖傑" id="王靖傑" showAs="王靖傑"/>
+                <TLCPerson href="/ontology/person/::/r08a41009" id="r08a41009" showAs="r08a41009"/>
+                <TLCPerson href="/ontology/person/::/陳佳雯" id="陳佳雯" showAs="陳佳雯"/>
+                <TLCPerson href="/ontology/person/::/r10922088" id="r10922088" showAs="r10922088"/>
+                <TLCPerson href="/ontology/person/::/TAM CHON MAN" id="TAM CHON MAN" showAs="TAM CHON MAN"/>
+                <TLCPerson href="/ontology/person/::/R10944057" id="R10944057" showAs="R10944057"/>
+                <TLCPerson href="/ontology/person/::/chang" id="chang" showAs="chang"/>
+                <TLCPerson href="/ontology/person/::/蔡佳誠_b09902052" id="蔡佳誠_b09902052" showAs="蔡佳誠_b09902052"/>
+                <TLCPerson href="/ontology/person/::/r10922069" id="r10922069" showAs="r10922069"/>
+                <TLCPerson href="/ontology/person/::/B07902088 李彥廷" id="B07902088 李彥廷" showAs="B07902088 李彥廷"/>
+                <TLCPerson href="/ontology/person/::/羅凱芸" id="羅凱芸" showAs="羅凱芸"/>
+                <TLCPerson href="/ontology/person/::/Tony" id="Tony" showAs="Tony"/>
+                <TLCPerson href="/ontology/person/::/曾暐畯" id="曾暐畯" showAs="曾暐畯"/>
+                <TLCPerson href="/ontology/person/::/aaa" id="aaa" showAs="aaa"/>
+                <TLCPerson href="/ontology/person/::/Alan" id="Alan" showAs="Alan"/>
+                <TLCPerson href="/ontology/person/::/YuPo 至 寶博士（私下）" id="YuPo 至 寶博士（私下）" showAs="YuPo 至 寶博士（私下）"/>
+                <TLCPerson href="/ontology/person/::/R09631016" id="R09631016" showAs="R09631016"/>
+                <TLCPerson href="/ontology/person/::/R10942078" id="R10942078" showAs="R10942078"/>
+                <TLCPerson href="/ontology/person/::/huang" id="huang" showAs="huang"/>
+                <TLCPerson href="/ontology/person/::/8_巫信霈" id="8_巫信霈" showAs="8_巫信霈"/>
+                <TLCPerson href="/ontology/person/::/student" id="student" showAs="student"/>
+                <TLCPerson href="/ontology/person/::/bbbbb" id="bbbbb" showAs="bbbbb"/>
+                <TLCPerson href="/ontology/person/::/r10922189" id="r10922189" showAs="r10922189"/>
+                <TLCPerson href="/ontology/person/::/Kevin" id="Kevin" showAs="Kevin"/>
+                <TLCPerson href="/ontology/person/::/Ch" id="Ch" showAs="Ch"/>
+                <TLCPerson href="/ontology/person/::/謝獻沅_B07902049" id="謝獻沅_B07902049" showAs="謝獻沅_B07902049"/>
+                <TLCPerson href="/ontology/person/::/B07501053_陳冠儒_土木四" id="B07501053_陳冠儒_土木四" showAs="B07501053_陳冠儒_土木四"/>
+                <TLCPerson href="/ontology/person/::/YuPo" id="YuPo" showAs="YuPo"/>
+                <TLCPerson href="/ontology/person/::/Zhenwei" id="Zhenwei" showAs="Zhenwei"/>
+                <TLCPerson href="/ontology/person/::/Yung-Chih Chiu" id="Yung-Chih Chiu" showAs="Yung-Chih Chiu"/>
+                <TLCPerson href="/ontology/person/::/r10922017" id="r10922017" showAs="r10922017"/>
+                <TLCPerson href="/ontology/person/::/b07705047_林昱辰" id="b07705047_林昱辰" showAs="b07705047_林昱辰"/>
+                <TLCPerson href="/ontology/person/::/陳英凡" id="陳英凡" showAs="陳英凡"/>
+                <TLCPerson href="/ontology/person/::/趙晉杰_B07902120" id="趙晉杰_B07902120" showAs="趙晉杰_B07902120"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2022-05-4 臺大 110-2 去中心化應用程式之設計實務（大三）
+                </heading>
+                <narrative>
+                    <p>
+                        <i>
+                            🏡 （
+                            <a href="https://goo.gl/maps/8mJCHbmzrRyqEZKg9">
+                                臺大 / 2022-05-04T10:12:21
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            🌐 （
+                            <a href="https://youtu.be/8_Gz8-J_xzI">
+                                YouTube
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://forms.gle/it7W5iSuLrtvDCPq9">
+                            https://forms.gle/it7W5iSuLrtvDCPq9
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        沒有
+                    </p>
+                </speech>
+                <speech by="#r09525059">
+                    <p>
+                        已填, 謝謝老師～
+                    </p>
+                </speech>
+                <speech by="#R08944029">
+                    <p>
+                        $$
+                    </p>
+                </speech>
+                <speech by="#yc">
+                    <p>
+                        錢
+                    </p>
+                </speech>
+                <speech by="#陳翰生">
+                    <p>
+                        $$$
+                    </p>
+                </speech>
+                <speech by="#Simon">
+                    <p>
+                        AV
+                    </p>
+                </speech>
+                <speech by="#王靖傑">
+                    <p>
+                        $$$$$$$$$$$$$$$$$$$$$$$$
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        $
+                    </p>
+                </speech>
+                <speech by="#陳佳雯">
+                    <p>
+                        web3
+                    </p>
+                </speech>
+                <speech by="#r10922088">
+                    <p>
+                        web3
+                    </p>
+                </speech>
+                <speech by="#TAM CHON MAN">
+                    <p>
+                        $$$
+                    </p>
+                </speech>
+                <speech by="#R10944057">
+                    <p>
+                        $$$$
+                    </p>
+                </speech>
+                <speech by="#r09525059">
+                    <p>
+                        3, $
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        VR
+                    </p>
+                </speech>
+                <speech by="#chang">
+                    <p>
+                        web3的3
+                    </p>
+                </speech>
+                <speech by="#蔡佳誠_b09902052">
+                    <p>
+                        WEB3
+                    </p>
+                </speech>
+                <speech by="#r10922069">
+                    <p>
+                        $$$$$$
+                    </p>
+                </speech>
+                <speech by="#B07902088 李彥廷">
+                    <p>
+                        3
+                    </p>
+                </speech>
+                <speech by="#羅凱芸">
+                    <p>
+                        $$$
+                    </p>
+                </speech>
+                <speech by="#Tony">
+                    <p>
+                        web3 &#x26; $$
+                    </p>
+                </speech>
+                <speech by="#曾暐畯">
+                    <p>
+                        $$$
+                    </p>
+                </speech>
+                <speech by="#王靖傑">
+                    <p>
+                        AV
+                    </p>
+                </speech>
+                <speech by="#aaa">
+                    <p>
+                        AV
+                    </p>
+                </speech>
+                <speech by="#Alan">
+                    <p>
+                        沒看到表單
+                    </p>
+                </speech>
+                <speech by="#r09525059">
+                    <p>
+                        <a href="https://forms.gle/it7W5iSuLrtvDCPq9">
+                            https://forms.gle/it7W5iSuLrtvDCPq9
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        <a href="https://forms.gle/it7W5iSuLrtvDCPq9">
+                            https://forms.gle/it7W5iSuLrtvDCPq9
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#aaa">
+                    <p>
+                        有
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#r10922069">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#R09631016">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        0
+                    </p>
+                </speech>
+                <speech by="#R10944057">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#r09525059">
+                    <p>
+                        0
+                    </p>
+                </speech>
+                <speech by="#R08944029">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#huang">
+                    <p>
+                        0
+                    </p>
+                </speech>
+                <speech by="#yc">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#8_巫信霈">
+                    <p>
+                        1
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        w
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        <a href="https://cluster.mu/">
+                            https://cluster.mu/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        <a href="https://decentraland.org/">
+                            https://decentraland.org/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.youtube.com/watch?v=p28vQYZgN1k">
+                            https://www.youtube.com/watch?v=p28vQYZgN1k
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        收到2頂XD
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://curation.echox.app/nft/curation/6DVN1yEVvEQq97d">
+                            https://curation.echox.app/nft/curation/6DVN1yEVvEQq97d
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://play.decentraland.org/?island=Iahgk&#x26;position=-60%2C14&#x26;realm=fenrir">
+                            https://play.decentraland.org/?island=Iahgk&#x26;position=-60%2C14&#x26;realm=fenrir
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#羅凱芸">
+                    <p>
+                        我是一頂
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://play.decentraland.org/?island=Ic6ei&#x26;position=-60%2C13&#x26;realm=artemis">
+                            https://play.decentraland.org/?island=Ic6ei&#x26;position=-60%2C13&#x26;realm=artemis
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#aaa">
+                    <p>
+                        老師的衣服好酷
+                    </p>
+                </speech>
+                <speech by="#aaa">
+                    <p>
+                        紅色閃電
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        可以再說一次怎麼換帽子嗎
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        白天看比較漂亮
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        點右上角的人像
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        可以點選老師送的帽子
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        有了感謝
+                    </p>
+                </speech>
+                <speech by="#student">
+                    <p>
+                        wait
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        觀雲好厲害！
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        建造模式才能換
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        我搭電梯到一個密閉小房間後出不來
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.sandbox.game/tc/">
+                            https://www.sandbox.game/tc/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#R08944029">
+                    <p>
+                        帥衣服 Jim: cool hat…where to get one?
+                    </p>
+                </speech>
+                <speech by="#r10922189">
+                    <p>
+                        qq
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        Sandbox是一個真正的跑酷遊戲
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        老香港是指自由的香港嗎
+                    </p>
+                </speech>
+                <speech by="#aaa">
+                    <p>
+                        d
+                    </p>
+                </speech>
+                <speech by="#曾暐畯">
+                    <p>
+                        d
+                    </p>
+                </speech>
+                <speech by="#student">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        S
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        S
+                    </p>
+                </speech>
+                <speech by="#R09631016">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#Ch">
+                    <p>
+                        S
+                    </p>
+                </speech>
+                <speech by="#羅凱芸">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#TAM CHON MAN">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#陳佳雯">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#R08944029">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#曾暐畯">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#謝獻沅_B07902049">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#chang">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#R10944057">
+                    <p>
+                        s
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        sandbox的渲染比較讚
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        小孩❤️死
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        對不起 失言
+                    </p>
+                </speech>
+                <speech by="#蔡佳誠_b09902052">
+                    <p>
+                        演算法
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        老師是地主嗎
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.cryptovoxels.com/play?coords=SW@314W,384N">
+                            https://www.cryptovoxels.com/play?coords=SW@314W,384N
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        老師怎麼看otherland對於虛擬土地的影響
+                    </p>
+                </speech>
+                <speech by="#B07501053_陳冠儒_土木四">
+                    <p>
+                        老師有中koda嗎
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.cryptovoxels.com/play?coords=SW@314W,384N">
+                            https://www.cryptovoxels.com/play?coords=SW@314W,384N
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        有喔
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        Waifu
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        質感差有夠多!
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        看不到車尾燈了
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        天花板
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        www
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        哇靠
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://alpha.webb.game/builds/bed96e99/index.html">
+                            https://alpha.webb.game/builds/bed96e99/index.html
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://opensea.io/collection/worldwidewebbland">
+                            https://opensea.io/collection/worldwidewebbland
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#YuPo">
+                    <p>
+                        覺得www體驗蠻好ㄉ
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://vrm.dev/en/">
+                            https://vrm.dev/en/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://substrata.info/">
+                            https://substrata.info/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://oncyber.io/vvd">
+                            https://oncyber.io/vvd
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://oncyber.io/6529om?coords=-3.81x2.80x0.92x1.08">
+                            https://oncyber.io/6529om?coords=-3.81x2.80x0.92x1.08
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://arium.xyz/">
+                            https://arium.xyz/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://arium.xyz/spaces/portal">
+                            https://arium.xyz/spaces/portal
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        掉到海底下了XD
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://hubs.mozilla.com/">
+                            https://hubs.mozilla.com/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://hubs.mozilla.com/jdyjwCB/instructive-beneficial-dominion">
+                            https://hubs.mozilla.com/jdyjwCB/instructive-beneficial-dominion
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        電腦超卡
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://hubs.sciencevr.com/?si">
+                            https://hubs.sciencevr.com/?si
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://collection.echox.app/zh-TW">
+                            https://collection.echox.app/zh-TW
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        ECHOXGALAXY
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        Elysium!
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://collection.echox.app/zh-TW/user/userHome/1635261423">
+                            https://collection.echox.app/zh-TW/user/userHome/1635261423
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        <a href="https://collection.echox.app/zh-TW/user/userHome/1651641413">
+                            https://collection.echox.app/zh-TW/user/userHome/1651641413
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#R10942078">
+                    <p>
+                        推薦碼能做什麼
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        <a href="https://collection.echox.app/zh-TW/user/userHome/1651641404">
+                            https://collection.echox.app/zh-TW/user/userHome/1651641404
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        他自動放的
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        很貼心
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        老師作品太多
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        觀雲有藝名嗎
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        Aery
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        👍
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        @Aery_design
+                    </p>
+                </speech>
+                <speech by="#Ch">
+                    <p>
+                        wow
+                    </p>
+                </speech>
+                <speech by="#Zhenwei">
+                    <p>
+                        老師請教下，您提到的一些大公司為什麼要花大錢買decentraland, sandbox等的虛擬土地？對他們有什麼用途？未來更多平台會創造更多土地不是就買不完？
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://rendertoken.com/">
+                            https://rendertoken.com/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#R09631016">
+                    <p>
+                        老師請問  為什麼大公司會願意將自己的帳本分享出來??  是因為用戶可以互通嗎?
+                    </p>
+                </speech>
+                <speech by="#Yung-Chih Chiu">
+                    <p>
+                        區塊鏈的 information 也需要硬體設備儲存
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        感覺GDPR的下一步就會是要求企業要讓用戶能使用全球通用的identity 所以倒不一定是公司願不願意的問題
+                    </p>
+                </speech>
+                <speech by="#r10922017">
+                    <p>
+                        那能源問題呢？
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://daaab.medium.com/89898e34840">
+                            https://daaab.medium.com/89898e34840
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://daaab.medium.com/989032d9c2c5">
+                            https://daaab.medium.com/989032d9c2c5
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Ch">
+                    <p>
+                        想請問會有不樂見去中心化發展的掌握中心化權力的組織嗎？
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        老巴就比特黑啊
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        笑死
+                    </p>
+                </speech>
+                <speech by="#Ch">
+                    <p>
+                        XD
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        XDDDDD
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        <a href="https://youtu.be/BH5-rSxilxo">
+                            https://youtu.be/BH5-rSxilxo
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        老巴就是主角
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        *上面那部影片裡的主角
+                    </p>
+                </speech>
+                <speech by="#Zhenwei">
+                    <p>
+                        請問平台如果把土地功能關掉，買的土地還會在嗎？
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        掰掰
+                    </p>
+                </speech>
+                <speech by="#TAM CHON MAN">
+                    <p>
+                        88
+                    </p>
+                </speech>
+                <speech by="#bbbbb">
+                    <p>
+                        感謝老師
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        謝謝老師~今天好充實!
+                    </p>
+                </speech>
+                <speech by="#R09631016">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#Tony">
+                    <p>
+                        88
+                    </p>
+                </speech>
+                <speech by="#b07705047_林昱辰">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#陳英凡">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        %%%%%%
+                    </p>
+                </speech>
+                <speech by="#Kevin">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#B07501053_陳冠儒_土木四">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#曾暐畯">
+                    <p>
+                        %%%%%
+                    </p>
+                </speech>
+                <speech by="#Tony">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#TAM CHON MAN">
+                    <p>
+                        %%%%%
+                    </p>
+                </speech>
+                <speech by="#陳佳雯">
+                    <p>
+                        謝謝老師!
+                    </p>
+                </speech>
+                <speech by="#Ch">
+                    <p>
+                        謝謝
+                    </p>
+                </speech>
+                <speech by="#趙晉杰_B07902120">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#aaa">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        感謝大家！
+                    </p>
+                </speech>
+                <speech by="#謝獻沅_B07902049">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
