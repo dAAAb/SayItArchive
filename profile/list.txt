@@ -1,3 +1,4 @@
 寶博士： https://graph.facebook.com/1324335231/picture?width=500&height=500
 Tom Lam： https://graph.facebook.com/548103373/picture?width=500&height=500
 Suji Yan： https://graph.facebook.com/100003380612175/picture?width=500&height=500
+James Lee： https://raw.githubusercontent.com/dAAAb/archive/5312c44a4079fd834fe017fda3dbf8293e3fd245/profile/james-lee.jpg
