@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso>
+    <debate>
+        <meta>
+            <references>
+                <TLCPerson href="/ontology/person/::/Suji Yan" id="Suji Yan" showAs="Suji Yan"/>
+                <TLCPerson href="/ontology/person/::/Chang Kuan-Yun" id="Chang Kuan-Yun" showAs="Chang Kuan-Yun"/>
+                <TLCPerson href="/ontology/person/::/student" id="student" showAs="student"/>
+                <TLCPerson href="/ontology/person/::/Brian" id="Brian" showAs="Brian"/>
+                <TLCPerson href="/ontology/person/::/曾暐畯" id="曾暐畯" showAs="曾暐畯"/>
+                <TLCPerson href="/ontology/person/::/李彥廷" id="李彥廷" showAs="李彥廷"/>
+                <TLCPerson href="/ontology/person/::/趙晉杰_B07902120" id="趙晉杰_B07902120" showAs="趙晉杰_B07902120"/>
+                <TLCPerson href="/ontology/person/::/gg" id="gg" showAs="gg"/>
+                <TLCPerson href="/ontology/person/::/蔡佳誠" id="蔡佳誠" showAs="蔡佳誠"/>
+                <TLCPerson href="/ontology/person/::/R08944029" id="R08944029" showAs="R08944029"/>
+                <TLCPerson href="/ontology/person/::/刁彥斌" id="刁彥斌" showAs="刁彥斌"/>
+                <TLCPerson href="/ontology/person/::/b07902014" id="b07902014" showAs="b07902014"/>
+                <TLCPerson href="/ontology/person/::/Hans" id="Hans" showAs="Hans"/>
+                <TLCPerson href="/ontology/person/::/TAM CHON MAN" id="TAM CHON MAN" showAs="TAM CHON MAN"/>
+                <TLCPerson href="/ontology/person/::/R09631016" id="R09631016" showAs="R09631016"/>
+                <TLCPerson href="/ontology/person/::/r08a41009" id="r08a41009" showAs="r08a41009"/>
+                <TLCPerson href="/ontology/person/::/寶博士" id="寶博士" showAs="寶博士"/>
+                <TLCPerson href="/ontology/person/::/r10921059" id="r10921059" showAs="r10921059"/>
+                <TLCPerson href="/ontology/person/::/土木四陳冠儒B07501053" id="土木四陳冠儒B07501053" showAs="土木四陳冠儒B07501053"/>
+                <TLCPerson href="/ontology/person/::/woody" id="woody" showAs="woody"/>
+                <TLCPerson href="/ontology/person/::/Jingfang" id="Jingfang" showAs="Jingfang"/>
+                <TLCPerson href="/ontology/person/::/Alan" id="Alan" showAs="Alan"/>
+                <TLCPerson href="/ontology/person/::/羅凱芸" id="羅凱芸" showAs="羅凱芸"/>
+            </references>
+        </meta>
+        <debateBody>
+            <debateSection>
+                <heading>
+                    2022-04-27 臺大 110-2 去中心化應用程式之設計實務（大三）
+                </heading>
+                <narrative>
+                    <p>
+                        <i>
+                            🏡 （
+                            <a href="https://goo.gl/maps/8mJCHbmzrRyqEZKg9">
+                                臺大 / 2022-04-27T10:12:21
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <narrative>
+                    <p>
+                        <i>
+                            🌐 （
+                            <a href="https://www.youtube.com/watch?v=tXUYXNYPUGQ">
+                                YouTube
+                            </a>
+                            ）
+                        </i>
+                    </p>
+                </narrative>
+                <speech by="#Suji Yan">
+                    <p>
+                        HI~
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        好
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        <a href="https://twitter.com/realMaskNetwork/status/1518722091461136385?s=20&#x26;t=U6sEn4_SiY9T-hwXq9tRhw">
+                            https://twitter.com/realMaskNetwork/status/1518722091461136385?s=20&#x26;t=U6sEn4_SiY9T-hwXq9tRhw
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        How to unfuck web2 (#twitter) ? And why decentralized social networks are inevitable? @elonmusk’s $44Billion cash WILL shift control of the social media platform populated by millions of users, we are here to call for radical changes for social media
+                    </p>
+                </speech>
+                <speech by="#student">
+                    <p>
+                        %%%
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        %%%%%%%%%
+                    </p>
+                </speech>
+                <speech by="#Brian">
+                    <p>
+                        %%%
+                    </p>
+                </speech>
+                <speech by="#曾暐畯">
+                    <p>
+                        %%%
+                    </p>
+                </speech>
+                <speech by="#李彥廷">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#趙晉杰_B07902120">
+                    <p>
+                        %%%%%%%%%%%%
+                    </p>
+                </speech>
+                <speech by="#gg">
+                    <p>
+                        %%%%%%%%%%%
+                    </p>
+                </speech>
+                <speech by="#Brian">
+                    <p>
+                        %%%%%%%
+                    </p>
+                </speech>
+                <speech by="#蔡佳誠">
+                    <p>
+                        %%%%%%%%%%%%%%
+                    </p>
+                </speech>
+                <speech by="#R08944029">
+                    <p>
+                        %%%%%%
+                    </p>
+                </speech>
+                <speech by="#刁彥斌">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#b07902014">
+                    <p>
+                        777777
+                    </p>
+                </speech>
+                <speech by="#Hans">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#TAM CHON MAN">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#R09631016">
+                    <p>
+                        %%%%%%
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        %%%%%
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        以區塊鏈技術打造虛擬國 — 虛擬國家時代的公民身份探討（巴黎國家科研中心常任研究員 Primavera De Filippi 〈Citizenship in the Era of Blockchain-Based Virtual Nations〉繁中譯本） 
+                        <a href="https://daaab.medium.com/89898e34840">
+                            https://daaab.medium.com/89898e34840
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        電子前線基金會始創人之一約翰．佩里．巴洛（John Perry Barlow）發表了著名的《賽博空間獨立宣言》  A Declaration of the Independence of Cyberspace 
+                        <a href="https://www.eff.org/cyberspace-independence">
+                            https://www.eff.org/cyberspace-independence
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://twitter.com/suji_yan/status/1519150099045122049">
+                            https://twitter.com/suji_yan/status/1519150099045122049
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://twitter.com/suji_yan/status/1519151973324378114">
+                            https://twitter.com/suji_yan/status/1519151973324378114
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        超酷！
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://github.com/DimensionDev">
+                            https://github.com/DimensionDev
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        %%%%%%%
+                    </p>
+                </speech>
+                <speech by="#r08a41009">
+                    <p>
+                        %%%%%%%
+                    </p>
+                </speech>
+                <speech by="#Hans">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#李彥廷">
+                    <p>
+                        %%%
+                    </p>
+                </speech>
+                <speech by="#r10921059">
+                    <p>
+                        %%%%
+                    </p>
+                </speech>
+                <speech by="#土木四陳冠儒B07501053">
+                    <p>
+                        %%%%%%
+                    </p>
+                </speech>
+                <speech by="#b07902014">
+                    <p>
+                        777777
+                    </p>
+                </speech>
+                <speech by="#woody">
+                    <p>
+                        我們想做nft的保險 和nft的做空 如何參加您們的比賽 你們所看重的是什麼
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        比賽簡單介紹 ethshanghai.org
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        稍後我發一下
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        CEO的藍天夢｜發布「去中心化計畫 BlueSky」生態系回顧：探討 IPSF 技術、商業模式 
+                        <a href="https://www.blocktempo.com/twitter-bluesky-decentralized-social-network-ecosystem-reveiw/">
+                            https://www.blocktempo.com/twitter-bluesky-decentralized-social-network-ecosystem-reveiw/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Jingfang">
+                    <p>
+                        <a href="https://www.knn3.xyz">
+                            https://www.knn3.xyz
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        mstdn.jp &#x26; mastodon.cloud
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        <a href="http://www.mastodon.cloud">
+                            www.mastodon.cloud
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        <a href="https://mastodon.cloud/about">
+                            https://mastodon.cloud/about
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://en.wikipedia.org/wiki/New_Harmony,_Indiana">
+                            https://en.wikipedia.org/wiki/New_Harmony,_Indiana
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E6%AC%A7%E6%96%87">
+                            https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E6%AC%A7%E6%96%87
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        <a href="https://t.me/maskbook_group">
+                            https://t.me/maskbook_group
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://twitter.com/suji_yan">
+                            https://twitter.com/suji_yan
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        <a href="https://discord.gg/YwrJg4Fa">
+                            https://discord.gg/YwrJg4Fa
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Suji Yan">
+                    <p>
+                        ethshanghai.org
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        <a href="https://www.linkedin.com/company/masknetwork/jobs/">
+                            https://www.linkedin.com/company/masknetwork/jobs/
+                        </a>
+                    </p>
+                </speech>
+                <speech by="#Alan">
+                    <p>
+                        %%%%%%
+                    </p>
+                </speech>
+                <speech by="#趙晉杰_B07902120">
+                    <p>
+                        %%%%%%%%%%%%
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        %%%%%%%
+                    </p>
+                </speech>
+                <speech by="#Chang Kuan-Yun">
+                    <p>
+                        謝謝老師與講師!!
+                    </p>
+                </speech>
+                <speech by="#b07902014">
+                    <p>
+                        777777
+                    </p>
+                </speech>
+                <speech by="#寶博士">
+                    <p>
+                        感謝！
+                    </p>
+                </speech>
+                <speech by="#蔡佳誠">
+                    <p>
+                        謝謝講師與老師！
+                    </p>
+                </speech>
+                <speech by="#羅凱芸">
+                    <p>
+                        謝謝老師
+                    </p>
+                </speech>
+            </debateSection>
+        </debateBody>
+    </debate>
+</akomaNtoso>
